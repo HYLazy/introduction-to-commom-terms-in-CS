@@ -31,7 +31,7 @@
 
   * [计算机为什么要用补码？](https://mp.weixin.qq.com/s?__biz=MzU4Mzc3MzM3NA==&mid=2247485027&idx=1&sn=80e92e7adeb7287ff5739de60fe47809&chksm=fda2bbb2cad532a4dc57c337f90b2a1abc3a51b8d54e891693540afcbaab0e4c36d330ff2a73&mpshare=1&scene=23&srcid=0704daq05x7PRU5jWabBhWIX&sharer_sharetime=1625330272160&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
-    > 计算机为什么使用补码？**采用补码可以简化计算机硬件电路设计的复杂度**。
+    > 计算机为什么使用补码？**采用补码可以简化计算机硬件电路设计的复杂度**。.
     
   * [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html)
 
@@ -53,11 +53,33 @@
 
 ## D
 
+### DevOps
+
+* 标签：软件开发
+
+* 简介：
+
+  > DevOps追求更短的迭代周期、更高频的发布。但发布的次数越多，引入故障的可能性就越大。更多的故障将会降低服务的可用性，进而影响到客户体验。所以，为了保证服务质量，守好发布这个最后一道关，阿里逐步发展出了适应DevOps要求的发布策略。
+
+* 相关资料：
+  * [DevOps发布策略简介](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504053&idx=1&sn=d81ed8301ad290c7f04cbf0a7f6be1d9&chksm=e92aedbade5d64ac0f979275848c4664609e9be8e0254b04129dec214b59bb0c5e26ea549761&mpshare=1&scene=23&srcid=0707NMIx0bb4zqCBdzPpBTsP&sharer_sharetime=1625650520997&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ## E
 
 ## F
 
 ## G
+
+### 工厂模式
+
+* 标签：JAVA
+
+* 简介：
+
+  > 系统中总是需要创建对象的，一般使用new()来创建对象。创建对象可以是简单的new()，也可以有复杂的加工逻辑，如果在主程序中创建对象，那么就是将主干逻辑和创建对象的非主干逻辑耦合在了一起，工厂模式要做的就是将非核心的对象创建逻辑与主干逻辑解耦，通过调用工厂的创建方法直接获取到一个对象。
+
+* 相关资料：
+  * [重温设计模式之 Factory](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504042&idx=1&sn=d6ce7c7ca42807ae9661523e750b9253&chksm=e92aeda5de5d64b349c18cebfad1f25974fe2836cadabea062063a6a4d1604e952a9725e1586&mpshare=1&scene=23&srcid=0707SG2t06QUMcIVHuDNPydj&sharer_sharetime=1625658013529&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## H
 
