@@ -1,12 +1,18 @@
 # 计科学习常见术语简介
 
-* 仅以首字母排序。
 * 尽量做到周更。
+* 仅以首字母排序。
 * 如果对于术语的常见称呼为中文，则按中文首字母排序。否则为英文。
 * 部分词条的评价部分具有主观性，请谨慎看待。
 * 对于计科新生有帮助的词条会打上新手标签。
 
 ## A
+
+### API
+
+* 简介：
+
+  > 应用程序接口（英语：Application Programming Interface），缩写为API，是一种计算接口，它定义多个软件中介之间的交互，以及可以进行的调用（call）或请求（request）的种类，如何进行调用或发出请求，应使用的数据格式，应遵循的惯例等。它还可以提供扩展机制，以便用户可以通过各种方式对现有功能进行不同程度的扩展。一个API可以是完全定制的，针对某个组件的，也可以是基于行业标准设计的以确保互操作性。通过信息隐藏，API实现了模块化编程，从而允许用户实现独立地使用接口。
 
 ### auto类型推导
 
@@ -73,6 +79,23 @@
   * [CI/CD 管道是什么？](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489555&idx=1&sn=087620951001f972b0402a4e562b1bae&chksm=e9c4e972deb3606494a91fb811a63c192e0700532f6a295a270112fcc380d0ac7c66b03a1a0b&mpshare=1&scene=23&srcid=0705BsBZE27LiMYOL0oTL4Py&sharer_sharetime=1625482988380&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## D
+
+### Docker
+
+* 简介：
+
+  > Docker是一个开源的引擎，可以轻松的为任何应用创建一个轻量级的、可移植的、自给自足的容器。开发者在笔记本上编译测试通过的容器可以批量地在生产环境中部署，包括VMs（虚拟机）、 [bare metal](http://www.whatis.com.cn/word_5275.htm)、OpenStack 集群和其他的基础应用平台。 
+  >
+  > #### Docker通常用于如下场景：
+  >
+  > - web应用的自动化打包和发布；
+  > - 自动化测试和持续集成、发布；
+  > - 在服务型环境中部署和调整数据库或其他的后台应用；
+  > - 从头编译或者扩展现有的OpenShift或Cloud Foundry平台来搭建自己的PaaS环境。
+
+* 相关资料：
+
+  * [Docker 极简入门指南](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519624&idx=3&sn=50437d74f7189b8a2c1aec3ec98ef0cd&chksm=ce0e3a0bf979b31d736fe8de9145f6f0a0c002834c0adf0b28d59fbb52ed56f0a9b2a8f08bb0&mpshare=1&scene=23&srcid=0714A4pBGP8wjWCYna7MKIBa&sharer_sharetime=1626259583414&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### DevOps
 
@@ -150,6 +173,19 @@
 
 ## N
 
+### Nginx
+
+* 标签：网站开发
+
+* 简介：
+
+  > **Nginx**（发音同“engine X”）是异步框架的[网页服务器](https://zh.wikipedia.org/wiki/網頁伺服器)，也可以用作[反向代理](https://zh.wikipedia.org/wiki/反向代理)、[负载平衡器](https://zh.wikipedia.org/wiki/负载均衡)和[HTTP缓存](https://zh.wikipedia.org/wiki/HTTP缓存)。该软件由[伊戈尔·赛索耶夫](https://zh.wikipedia.org/wiki/伊戈爾·賽索耶夫)（Игорь Сысоев）创建并于2004年首次公开发布[[6\]](https://zh.wikipedia.org/wiki/Nginx#cite_note-Mobily-6)。2011年成立同名公司以提供支持。2019年3月11日，Nginx公司被[F5 Networks](https://zh.wikipedia.org/w/index.php?title=F5_Networks&action=edit&redlink=1)以6.7亿美元收购。
+  >
+  > Nginx是免费的[开源软件](https://zh.wikipedia.org/wiki/开源软件)，根据类[BSD许可证](https://zh.wikipedia.org/wiki/BSD许可证)的条款发布。一大部分Web服务器使用Nginx，通常作为[负载均衡器](https://zh.wikipedia.org/wiki/负载均衡)。
+
+* 相关文章：
+  * [彻底搞懂 Nginx 的五大应用场景](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519565&idx=3&sn=30e915d2db38a75d146375d899343a70&chksm=ce0e3acef979b3d8b4ad8e9dd50ac2b1440c4fba15533b86b85e7e615f288a67d44dbe744595&mpshare=1&scene=23&srcid=0713S4sErAchhqZzbI00xqgP&sharer_sharetime=1626158088714&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ## O
 
 ## P
@@ -166,9 +202,38 @@
 
 ## Q
 
+### Qt
+
+* 标签：图形用户界面，C++
+
+* 简介：
+
+  > Qt 是一个1991年由Qt Company开发的跨平台[C++](https://baike.baidu.com/item/C%2B%2B/99272)[图形用户界面](https://baike.baidu.com/item/图形用户界面/3352324)应用程序开发框架。它既可以开发GUI程序，也可用于开发非GUI程序，比如控制台工具和服务器。Qt是面向对象的框架，使用特殊的[代码](https://baike.baidu.com/item/代码/86048)生成扩展（称为元对象编译器(Meta Object Compiler, moc)）以及一些宏，Qt很容易扩展，并且允许真正地组件编程。
+  >
+  > 2008年，Qt Company科技被[诺基亚公司](https://baike.baidu.com/item/诺基亚公司/10858444)收购，Qt也因此成为诺基亚旗下的编程语言工具。2012年，Qt被Digia收购。
+  >
+  > 2014年4月，跨平台集成开发环境Qt Creator 3.1.0正式发布，实现了对于[iOS](https://baike.baidu.com/item/iOS/45705)的完全支持，新增WinRT、Beautifier等插件，废弃了无Python接口的GDB调试支持，集成了基于Clang的C/C++代码模块，并对[Android](https://baike.baidu.com/item/Android/60243)支持做出了调整，至此实现了全面支持iOS、Android、[WP](https://baike.baidu.com/item/WP/5165077),它提供给应用程序开发者建立艺术级的图形用户界面所需的所有功能。基本上，Qt 同 [X Window](https://baike.baidu.com/item/X Window/7249336) 上的 Motif，Openwin，GTK 等图形界面库和 Windows 平台上的 MFC，OWL，VCL，ATL 是同类型的东西。
+  * 评价：对于C++基础比较好、学过面向对象的人，从0开始学习Qt到完成一个简单的小游戏大概需要3~7天。学习Qt是一个一劳永逸的事，建议新生尽早学习。
+
 ## R
 
 ## S
+
+### STL
+
+* 标签：C++，数据结构，算法
+
+* 简介：
+
+  > **标准模板库**是一个C++[软件库](https://baike.baidu.com/item/软件库)，大量影响了[C++标准程序库](https://baike.baidu.com/item/C%2B%2B标准程序库)但并非是其的一部分。其中包含4个组件，分别为算法、[容器](https://baike.baidu.com/item/容器)、函数、[迭代器](https://baike.baidu.com/item/迭代器)。
+  >
+  > [模板](https://baike.baidu.com/item/模板)是C++程序设计语言中的一个重要特征，而标准模板库正是基于此特征。标准模板库使得[C++](https://baike.baidu.com/item/C%2B%2B)编程语言在有了同[Java](https://baike.baidu.com/item/Java)一样强大的[类库](https://baike.baidu.com/item/类库)的同时，保有了更大的[可扩展性](https://baike.baidu.com/item/可扩展性)。
+  >
+  > 在C++标准中，STL被组织为下面的13个头文件：<algorithm>、<deque>、<functional>、<iterator>、<vector>、<list>、<map>、<memory>、<numeric>、<queue>、<set>、<stack>和<utility>。
+
+* 相关文章：
+
+  * [图解|从武侠角度探究STL排序算法的奥秘](https://mp.weixin.qq.com/s?__biz=MzI3ODQ3OTczMw==&mid=2247490602&idx=1&sn=28cf3b1bef8b5a7869d174e221948e3d&chksm=eb570a30dc2083269ed79ae217830350d332a98a65033b18b319d9cd332ffada064130d55b2a&mpshare=1&scene=23&srcid=0709yeRKcc5mKeghf3uAfS0z&sharer_sharetime=1625835441042&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### 数据库(Database)
 
