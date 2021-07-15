@@ -157,6 +157,17 @@
 
 ## L
 
+### LaTeX
+
+* 标签：实用工具、TEX
+
+* 简介：
+
+  > LaTeX（LATEX，音译“拉泰赫”）是一种基于ΤΕΧ的排版系统，由美国计算机学家莱斯利·兰伯特（Leslie Lamport）在20世纪80年代初期开发，利用这种格式，即使使用者没有排版和程序设计的知识也可以充分发挥由TeX所提供的强大功能，能在几天、甚至几小时内生成很多具有书籍质量的印刷品。对于生成复杂表格和数学公式，这一点表现得尤为突出。因此它非常适用于生成高印刷质量的科技和数学类文档。这个系统同样适用于生成从简单的信件到完整书籍的所有其他种类的文档。
+
+* 相关资料：
+  * [笔记：LaTeX不快速入门](https://www.jianshu.com/p/fd7b312a0cad)
+
 ## M
 
 ### MATLAB
@@ -299,6 +310,17 @@
   * [2.5 万字详解：23 种设计模式](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519108&idx=1&sn=b24634f5fc0ef9cd8962cedaf0cd2788&chksm=ce0e3c07f979b51138813d96244928d13a94ff974c18dddae17fdcaef0aac613a9644ce3d05d&mpshare=1&scene=23&srcid=0705EJ6y1x2FNR933Htcyurm&sharer_sharetime=1625482901541&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## T
+
+### TEX
+
+* 标签：实用工具
+
+* 简介：
+
+  > TeX是由著名的计算机科学家Donald E. Knuth（高德纳）发明的排版系统，利用TeX可以很容易地生成高质量的dvi文件，打印输出。利用dvips，dvipdfmx，pdfLaTeX等程序生成pdf，ps文件，LaTeX2html生成html文件。 它在学术界十分流行，特别是数学、物理学、统计学与计算机科学界。TeX被普遍认为是一个很好的 排版工具，特别是在处理复杂的数学公式时。利用诸如是LaTeX等终端软件，TeX就能够排版出精美的文本。通过CTAN上的宏包可以扩展其功能，可以作幻灯片，定义模板。中文支持可以由CCT、CJK、ctex等来完成。
+
+* 相关资料：
+  * [笔记：LaTeX不快速入门](https://www.jianshu.com/p/fd7b312a0cad)
 
 ## U
 
