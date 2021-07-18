@@ -63,6 +63,10 @@
   > C++是C语言的继承，它既可以进行[C语言](https://baike.baidu.com/item/C语言/105958)的过程化[程序设计](https://baike.baidu.com/item/程序设计/223952)，又可以进行以抽象数据类型为特点的基于对象的程序设计，还可以进行以继承和多态为特点的面向对象的程序设计。C++擅长面向对象程序设计的同时，还可以进行基于过程的程序设计，因而C++就适应的问题规模而论，大小由之。 
   >
   > C++不仅拥有计算机高效运行的实用性特征，同时还致力于提高大规模程序的编程质量与程序设计语言的问题描述能力。 
+  
+* 相关资料：
+
+  * [重磅干货 ：五万字长文总结 C/C++ 知识（上）](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163211&idx=1&sn=f445496b3f9260fb14dd94d8576a10d2&chksm=80645b14b713d202366ae0a72124b9b805d23a5ab36e90fde9eae1730e8e4011d23e5142a6f6&mpshare=1&scene=23&srcid=0717693yKdAO2jP1PonSLIj1&sharer_sharetime=1626511878280&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### CI/CD 管道
 
@@ -96,6 +100,7 @@
 * 相关资料：
 
   * [Docker 极简入门指南](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519624&idx=3&sn=50437d74f7189b8a2c1aec3ec98ef0cd&chksm=ce0e3a0bf979b31d736fe8de9145f6f0a0c002834c0adf0b28d59fbb52ed56f0a9b2a8f08bb0&mpshare=1&scene=23&srcid=0714A4pBGP8wjWCYna7MKIBa&sharer_sharetime=1626259583414&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [docker专栏](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzAxMjY5NDU2Ng==&scene=23&album_id=1958971875900850179&count=3#wechat_redirect)
 
 ### DevOps
 
@@ -157,6 +162,21 @@
 
 ## L
 
+### Linux
+
+* 标签：操作系统
+
+* 简介：
+
+  > Linux，全称GNU/Linux，是一套免费使用和自由传播的类Unix操作系统，是一个基于POSIX的多用户、多任务、支持多线程和多CPU的操作系统。伴随着互联网的发展，Linux得到了来自全世界软件爱好者、组织、公司的支持。它除了在服务器方面保持着强劲的发展势头以外，在个人电脑、嵌入式系统上都有着长足的进步。使用者不仅可以直观地获取该操作系统的实现机制，而且可以根据自身的需要来修改完善Linux，使其最大化地适应用户的需要。 
+  > Linux不仅系统性能稳定，而且是开源软件。其核心防火墙组件性能高效、配置简单，保证了系统的安全。在很多企业网络中，为了追求速度和安全，Linux不仅仅是被网络运维人员当作服务器使用，甚至当作网络防火墙，这是Linux的一大亮点。
+  > Linux具有开放源码、没有版权、技术社区用户多等特点，开放源码使得用户可以自由裁剪，灵活性高，功能强大，成本低。尤其系统中内嵌网络协议栈，经过适当的配置就可实现路由器的功能。这些特点使得Linux成为开发路由交换设备的理想开发平台。
+
+* 相关资料：
+
+  * [用开源软件保护你的文件的 5 种方法](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489483&idx=1&sn=562d7b261eeaf0482f2acbff810cb010&chksm=e9c4e6aadeb36fbc7ee745b5ebb9a7a1395ac0bcf01295db74031b9b9d452f15c21ecccb19be&mpshare=1&scene=23&srcid=0718daFZLwXnWNhy459DKylz&sharer_sharetime=1626582266327&sharer_shareid=95e6b0ec8139f8fdad4d490f3636249e#rd)
+  * [在 Linux 命令行中生成密码]([在 Linux 命令行中生成密码 | Linux 中国 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489581&idx=1&sn=d890a3a3af0430e4ce9598da8b6aa39a&chksm=e9c4e94cdeb3605a24550b3925fd0f70f8c548e8f2beafe378a35cc6d63b2d3081c1f0327a94&mpshare=1&scene=23&srcid=071883BhJTQYaiSCM07aXNdL&sharer_sharetime=1626581480830&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd))
+
 ### LaTeX
 
 * 标签：实用工具、TEX
@@ -183,6 +203,28 @@
   > MATLAB和[Mathematica](https://baike.baidu.com/item/Mathematica)、[Maple](https://baike.baidu.com/item/Maple/2306572)并称为三大数学软件。它在数学类科技应用软件中在数值计算方面首屈一指。行[矩阵](https://baike.baidu.com/item/矩阵)运算、绘制函数和数据、实现算法、创建用户界面、连接其他编程语言的程序等。MATLAB的基本数据单位是矩阵，它的[指令](https://baike.baidu.com/item/指令/3225201)[表达式](https://baike.baidu.com/item/表达式/7655228)与数学、工程中常用的形式十分相似，故用MATLAB来解算问题要比用C，[FORTRAN](https://baike.baidu.com/item/FORTRAN)等语言完成相同的事情简捷得多，并且MATLAB也吸收了像Maple等软件的优点，使MATLAB成为一个强大的[数学软件](https://baike.baidu.com/item/数学软件/3363734)。在新的版本中也加入了对[C](https://baike.baidu.com/item/C/7252092)，[FORTRAN](https://baike.baidu.com/item/FORTRAN)，[C++](https://baike.baidu.com/item/C%2B%2B)，[JAVA](https://baike.baidu.com/item/JAVA/85979)的支持。
 
 ## N
+
+### Node.js
+
+* 简介：
+
+  > Node.js 是一个开源与跨平台的 JavaScript 运行时环境。 它是一个可用于几乎任何项目的流行工具！
+  >
+  > Node.js 在浏览器外运行 V8 JavaScript 引擎（Google Chrome 的内核）。 这使 Node.js 表现得非常出色。
+  >
+  > Node.js 应用程序运行于单个进程中，无需为每个请求创建新的线程。 Node.js 在其标准库中提供了一组异步的 I/O 原生功能（用以防止 JavaScript 代码被阻塞），并且 Node.js 中的库通常是使用非阻塞的范式编写的（从而使阻塞行为成为例外而不是规范）。
+  >
+  > 当 Node.js 执行 I/O 操作时（例如从网络读取、访问数据库或文件系统），Node.js 会在响应返回时恢复操作，而不是阻塞线程并浪费 CPU 循环等待。
+  >
+  > 这使 Node.js 可以在一台服务器上处理数千个并发连接，而无需引入管理线程并发的负担（这可能是重大 bug 的来源）。
+  >
+  > Node.js 具有独特的优势，因为为浏览器编写 JavaScript 的数百万前端开发者现在除了客户端代码之外还可以编写服务器端代码，而无需学习完全不同的语言。
+  >
+  > 在 Node.js 中，可以毫无问题地使用新的 ECMAScript 标准，因为不必等待所有用户更新其浏览器，你可以通过更改 Node.js 版本来决定要使用的 ECMAScript 版本，并且还可以通过运行带有标志的 Node.js 来启用特定的实验中的特性。
+
+* 相关资料：
+  * [Node.js 中文网 (nodejs.cn)](http://nodejs.cn/)
+  * [这些 node 开源工具你值得拥有(上)](https://mp.weixin.qq.com/s?__biz=Mzg2NjU1MjU5Ng==&mid=2247486758&idx=1&sn=45026ba22572fa415e2371ac18569ae0&chksm=ce48535df93fda4ba8c7286a749a36e7892df7c381137e65613e9b293401a7b1c203e6c2528e&mpshare=1&scene=23&srcid=0716QluYTZUKrXmvvKkYCj7t&sharer_sharetime=1626395362861&sharer_shareid=95e6b0ec8139f8fdad4d490f3636249e#rd)
 
 ### Nginx
 
@@ -229,6 +271,38 @@
 ## R
 
 ## S
+
+### SpringBoot
+
+* 标签：JAVA，Spring，框架
+
+* 简介：
+
+  > Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。该框架使用了特定的方式来进行配置，从而使开发人员不再需要定义样板化的配置。通过这种方式，Spring Boot致力于在蓬勃发展的快速应用开发领域(rapid application development)成为领导者。
+
+* 相关资料：
+
+  * [SpringBoot 的@Value注解]([SpringBoot 的@Value注解太强大了，用了都说爽！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247496703&idx=1&sn=6c6989e0d9c58d073551206c6aa9a77a&chksm=fd572379ca20aa6fb593c7c083b556f99294542005e3f65e0f01d749273a37f1573bf4b5d48c&mpshare=1&scene=23&srcid=0718QaEUAiquPWX9SfuRyCvK&sharer_sharetime=1626581382767&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd))
+
+### SpringBatch
+
+* 标签：JAVA，Spring，框架
+
+* 简介：
+
+  > SpringBatch 是一个大数据量的并行处理框架。通常用于数据的离线迁移，和数据处理，⽀持事务、并发、流程、监控、纵向和横向扩展，提供统⼀的接⼝管理和任务管理;SpringBatch是SpringSource和埃森哲为了统一业界并行处理标准为广大开发者提供方便开发的一套框架。
+  >
+  > 官方地址：github.com/spring-projects/spring-batch
+  >
+  > - SpringBatch 本身提供了重试，异常处理，跳过，重启、任务处理统计，资源管理等特性，这些特性开发者看重他的主要原因;
+  > - SpringBatch 是一个轻量级的批处理框架;
+  > - SpringBatch 结构分层，业务与处理策略、结构分离;
+  > - 任务的运行的实例状态，执行数据，参数都会落地到数据库;
+
+* 相关资料：
+
+  * [Spring Batch：入门篇 ](https://blog.didispace.com/spring-batch-1/)
+  * [首次使用批处理框架 Spring Batch ，被震撼到了](https://mp.weixin.qq.com/s?__biz=MzAwOTE3NDY5OA==&mid=2647927232&idx=1&sn=6b8a5df0c59b0326e1ab3a86fc700365&chksm=83432205b434ab13a2cfa26ad32bf5f02828503f8034043fbdd9369d9e9f526d47e1afb3929f&mpshare=1&scene=23&srcid=0717vo1YJpR1284SmkXp5dGs&sharer_sharetime=1626528492160&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### STL
 
