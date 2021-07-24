@@ -136,7 +136,7 @@
   > 分布式系统是若干独立计算机的集合，这计算机对用户来说就像单个相关系统。
 
 * 相关资料：
-  * [到底什么是分布式系统？]([到底什么是分布式系统？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/62623474))
+  * [到底什么是分布式系统？](https://zhuanlan.zhihu.com/p/62623474)
 
 ## G
 
@@ -233,7 +233,7 @@
 * 相关资料：
 
   * [用开源软件保护你的文件的 5 种方法](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489483&idx=1&sn=562d7b261eeaf0482f2acbff810cb010&chksm=e9c4e6aadeb36fbc7ee745b5ebb9a7a1395ac0bcf01295db74031b9b9d452f15c21ecccb19be&mpshare=1&scene=23&srcid=0718daFZLwXnWNhy459DKylz&sharer_sharetime=1626582266327&sharer_shareid=95e6b0ec8139f8fdad4d490f3636249e#rd)
-  * [在 Linux 命令行中生成密码]([在 Linux 命令行中生成密码 | Linux 中国 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489581&idx=1&sn=d890a3a3af0430e4ce9598da8b6aa39a&chksm=e9c4e94cdeb3605a24550b3925fd0f70f8c548e8f2beafe378a35cc6d63b2d3081c1f0327a94&mpshare=1&scene=23&srcid=071883BhJTQYaiSCM07aXNdL&sharer_sharetime=1626581480830&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd))
+  * [在 Linux 命令行中生成密码](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489581&idx=1&sn=d890a3a3af0430e4ce9598da8b6aa39a&chksm=e9c4e94cdeb3605a24550b3925fd0f70f8c548e8f2beafe378a35cc6d63b2d3081c1f0327a94&mpshare=1&scene=23&srcid=071883BhJTQYaiSCM07aXNdL&sharer_sharetime=1626581480830&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [52 图初探 Linux 通用知识 ](https://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247494631&idx=1&sn=f1b286f1eaa02b548915fb95308b1b96&chksm=9f8a8ed9a8fd07cf733be76c65a316d6e7aff29ad0a0f8bb573f2aa3ffd29c330d2c42b0ec7a&mpshare=1&scene=23&srcid=07233yhJ9XGdq12Q0UOJeOLa&sharer_sharetime=1627055851669&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [Linux下c开发 之 线程通信 ](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490099&idx=1&sn=ea3d7df29fcbca1b237887d66ec1b09f&chksm=becc3b6389bbb27574c6233f24a18bd0af8ca121e271d33500b3941224134509e1c7af5fd7ed&mpshare=1&scene=23&srcid=0723QVHUf42NY6iRvqnh1L7z&sharer_sharetime=1627055825276&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [深入理解编程艺术之策略与机制相分离](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163337&idx=1&sn=d664aa25dfcdf3bdba1815da7258933d&chksm=80645b96b713d2802381af29651c77bcc49ef1a09efdd4e3db9ec0ef0e8573c2f97af5a88917&mpshare=1&scene=23&srcid=0723dR7LSjrEfwc9JXD1VnPR&sharer_sharetime=1627045044681&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
@@ -362,7 +362,7 @@
 
 * 相关资料：
 
-  * [SpringBoot 的@Value注解]([SpringBoot 的@Value注解太强大了，用了都说爽！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247496703&idx=1&sn=6c6989e0d9c58d073551206c6aa9a77a&chksm=fd572379ca20aa6fb593c7c083b556f99294542005e3f65e0f01d749273a37f1573bf4b5d48c&mpshare=1&scene=23&srcid=0718QaEUAiquPWX9SfuRyCvK&sharer_sharetime=1626581382767&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd))
+  * [SpringBoot 的@Value注解](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247496703&idx=1&sn=6c6989e0d9c58d073551206c6aa9a77a&chksm=fd572379ca20aa6fb593c7c083b556f99294542005e3f65e0f01d749273a37f1573bf4b5d48c&mpshare=1&scene=23&srcid=0718QaEUAiquPWX9SfuRyCvK&sharer_sharetime=1626581382767&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [SpringBoot接入支付宝](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651953745&idx=1&sn=84f677601cfc7ce6b26505e8f065f1d1&chksm=8d0ff51fba787c09104b821717259330df081b20a53372eca685bf015ea0cfc7ba27d8694dea&mpshare=1&scene=23&srcid=0721Hhmv7wAJ3lQNuBoJ3Xfh&sharer_sharetime=1626860295766&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### SpringBatch
@@ -411,7 +411,7 @@
 
 * 相关资料：
 
-  * [数据库的定义]([数据库是什么 | Oracle 中国](https://www.oracle.com/cn/database/what-is-database/))
+  * [数据库是什么 | Oracle 中国](https://www.oracle.com/cn/database/what-is-database/)
   * [分库分表之后，id 主键如何处理？ ](https://mp.weixin.qq.com/s?__biz=MzAxOTQxOTc5NQ==&mid=2650501445&idx=1&sn=67ad7b6e2669c7cda793a8c5f5372d0c&chksm=83c896b9b4bf1fafe49559f9de42220854e4858867cc0f1099811a52c1b1285d2a7c87ebdd66&mpshare=1&scene=23&srcid=0723dopTdDxYLpSoSzQS23l4&sharer_sharetime=1627055896721&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### SQL(结构化查询语言)
@@ -423,7 +423,7 @@
   > 目前几乎所有的[关系数据库](https://www.oracle.com/cn/database/what-is-database/#relational)都使用 SQL 编程语言来查询、操作和定义数据，进行数据访问控制。SQL 最初于 20 世纪 70 年代由 IBM 开发，当时 Oracle 是一个主要的贡献者，这推动了 SQL ANSI 标准的实施，而 SQL 的兴起也刺激了 IBM、Oracle 和 Microsoft 等公司开始全面扩张。时至今日，虽然 SQL 仍被广泛使用，但是新的编程语言也已经崭露头角。
 
 * 相关资料：
-  * [结构化查询语言 (SQL) 是什么？]([数据库是什么 | Oracle 中国](https://www.oracle.com/cn/database/what-is-database/))
+  * [结构化查询语言 (SQL) 是什么？](https://www.oracle.com/cn/database/what-is-database/)
 
 ### stack（堆栈)
 
