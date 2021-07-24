@@ -6,6 +6,11 @@
 * 部分词条的评价部分具有主观性，请谨慎看待。
 * 对于计科新生有帮助的词条会打上新手标签。
 
+### 前言
+
+* 就像zt学长说的，平时可以多关注一些文章，哪怕不仔细看，就在脑子里存个档，那么以后需要用到这些知识的时候就可以更快的想起来。
+* 个人认为，计算机学习中，如果倾向于软件开发，那么就更要开阔视野，了解各种各样的新技术、新想法，提升自己的软件开发水平。
+
 ## A
 
 ### API
@@ -48,7 +53,7 @@
 
 ### C语言
 
-* 标签：编程语言，新手
+* 标签：编程语言，**新手**
 
 * 简介：
 
@@ -56,7 +61,7 @@
 
 ### C++语言
 
-* 标签：编程语言，新手
+* 标签：编程语言，**新手**
 
 * 简介：
 
@@ -67,6 +72,13 @@
 * 相关资料：
 
   * [重磅干货 ：五万字长文总结 C/C++ 知识（上）](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163211&idx=1&sn=f445496b3f9260fb14dd94d8576a10d2&chksm=80645b14b713d202366ae0a72124b9b805d23a5ab36e90fde9eae1730e8e4011d23e5142a6f6&mpshare=1&scene=23&srcid=0717693yKdAO2jP1PonSLIj1&sharer_sharetime=1626511878280&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++编译期多态与运行期多态](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490084&idx=1&sn=2bfbb688a134fe7a5e79b6b830ff9799&chksm=becc3b7489bbb2625ad1577bd3f4c33c25ebe9f4f253e4b5854e258beaada06afae37d1e091a&mpshare=1&scene=23&srcid=0722OqMcSgQnbSPZgl5DBWXM&sharer_sharetime=1626929587812&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ 并发编程（C++11 到 C++17 ）](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163335&idx=1&sn=2801dfc5589977658b945bacb5514b57&chksm=80645b98b713d28e7aa3f875df53053acbea1c496d3075c1ee75c08591d9bd7665c040ade14b&mpshare=1&scene=23&srcid=0721V73Thl2GDYcnrAD4MHEm&sharer_sharetime=1626860272396&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++内存管理](https://mp.weixin.qq.com/s?__biz=MzI3ODQ3OTczMw==&mid=2247490667&idx=1&sn=5f696d798cfd06d1711b31f2e623462e&chksm=eb570a71dc2083673d5a2aa77fda973aa6e13bf02cbe558af65ebd6b78d6522bd95cdd9b43e3&mpshare=1&scene=23&srcid=07218LP6VMRPH719SaNtK1Gv&sharer_sharetime=1626837502826&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [5 大最常用 C++ 经典算法](https://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247494299&idx=1&sn=33ec4ad79b6ff8506c248f15312b20b3&chksm=9f8a8fa5a8fd06b3a8d0ed0a0299be094892941a44d8a92cd6c2e3749266db14711537fa939b&mpshare=1&scene=23&srcid=0721Xg8w7J5e5HRR9ozvNNzj&sharer_sharetime=1626828445016&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [谈谈C++新标准带来的属性（Attribute） ](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504289&idx=1&sn=5d3a4c3cef4a44488a40540510e7c7b5&chksm=e92aecaede5d65b84060ef062f0bef56081458464b36eb2782d213683474f488b44217af7c45&mpshare=1&scene=23&srcid=0721lrb1vijm546RLaAY5rAw&sharer_sharetime=1626828380135&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [每个工程师都应该了解的一些 C++ 特性 ](https://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247494281&idx=1&sn=eba073e3283333554de9d9dc40fd1d7f&chksm=9f8a8fb7a8fd06a11b876015d0197371bc00ace21814fef99e2f7ba1c15d002bc19e0d5dfca7&mpshare=1&scene=23&srcid=0719NF08D5ojfWOibB1B5X78&sharer_sharetime=1626710303025&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [重磅干货：五万字长文总结 C/C++ 知识（下） ](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163271&idx=1&sn=466313fdd12db9bcfc5473bb99d4203f&chksm=80645bd8b713d2ce0535684be16dfa4c8914d5d60c3ca5e7843c13a093c90acab3b90c781be5&mpshare=1&scene=23&srcid=07192SMfNQWbp9JPUVPp5hCM&sharer_sharetime=1626624812953&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### CI/CD 管道
 
@@ -128,6 +140,13 @@
 
 ## G
 
+### Github
+
+* 标签：实用网站
+* 简介：
+* 主观评价：
+  * 全球最大的程序员网站，懂得都懂。无论是自我提升，还是分享技术，~~或者是抄作业，~~都能给你带来极大的帮助。
+
 ### 工厂模式(Factory)
 
 * 标签：JAVA
@@ -147,7 +166,7 @@
 
 ### JAVA语言
 
-* 标签：编程语言，新手
+* 标签：编程语言，**新手**
 
 * 简介：
 
@@ -157,6 +176,45 @@
 * 相关文章：
 
   * [什么是 Java？](https://www.java.com/zh-CN/about/whatis_java.jsp)
+  * [如何设计一个 Feed 流系统 ](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651862415&idx=1&sn=fef76b99f7be17b40dc96218cabd4b70&chksm=804970c6b73ef9d082bf2298b9c369bdea29c4219888ee087a34b1746b1ef7dcf06383b19f2c&mpshare=1&scene=23&srcid=0722ierT8yEYzOTFDD0gV2dS&sharer_sharetime=1626929569239&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Java必会的工具库，让你的代码量减少90%](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651862390&idx=1&sn=ce1d103c27ebc360c313474ffeb3afc8&chksm=8049703fb73ef929f0ec843f940c7cd7557d634fd83526397ed7bc5b84e9e124aad26827e76b&mpshare=1&scene=23&srcid=0719kW9tPNTQMWpdv7CadqdW&sharer_sharetime=1626624782545&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+### JavaScript
+
+* 标签：编程语言，前端
+
+* 简介
+
+  > ### JavaScript历史
+  >
+  > 要了解JavaScript，我们首先要回顾一下JavaScript的诞生。
+  >
+  > 在上个世纪的1995年，当时的网景公司正凭借其Navigator浏览器成为Web时代开启时最著名的第一代互联网公司。
+  >
+  > 由于网景公司希望能在静态HTML页面上添加一些动态效果，于是叫Brendan Eich这哥们在两周之内设计出了JavaScript语言。你没看错，这哥们只用了10天时间。
+  >
+  > 为什么起名叫JavaScript？原因是当时Java语言非常红火，所以网景公司希望借Java的名气来推广，但事实上JavaScript除了语法上有点像Java，其他部分基本上没啥关系。
+  >
+  > ### ECMAScript
+  >
+  > 因为网景开发了JavaScript，一年后微软又模仿JavaScript开发了JScript，为了让JavaScript成为全球标准，几个公司联合ECMA（European Computer Manufacturers Association）组织定制了JavaScript语言的标准，被称为ECMAScript标准。
+  >
+  > 所以简单说来就是，ECMAScript是一种语言标准，而JavaScript是网景公司对ECMAScript标准的一种实现。
+  >
+  > 那为什么不直接把JavaScript定为标准呢？因为JavaScript是网景的注册商标。
+  >
+  > 不过大多数时候，我们还是用JavaScript这个词。如果你遇到ECMAScript这个词，简单把它替换为JavaScript就行了。
+  >
+  > ### JavaScript版本
+  >
+  > JavaScript语言是在10天时间内设计出来的，虽然语言的设计者水平非常NB，但谁也架不住“时间紧，任务重”，所以，JavaScript有很多设计缺陷，我们后面会慢慢讲到。
+  >
+  > 此外，由于JavaScript的标准——ECMAScript在不断发展，最新版ECMAScript 6标准（简称ES6）已经在2015年6月正式发布了，所以，讲到JavaScript的版本，实际上就是说它实现了ECMAScript标准的哪个版本。
+  >
+  > 由于浏览器在发布时就确定了JavaScript的版本，加上很多用户还在使用IE6这种古老的浏览器，这就导致你在写JavaScript的时候，要照顾一下老用户，不能一上来就用最新的ES6标准写，否则，老用户的浏览器是无法运行新版本的JavaScript代码的。
+
+* 相关资料：
+  * [淘宝小部件：全新的开放卡片技术！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504324&idx=1&sn=a0e9226d80b63d683a9047ee8e8052fd&chksm=e92aeccbde5d65ddba2cc3216ca369b6617c7f2e8774b952b0c90cbfdedc0a382460622f8641&mpshare=1&scene=23&srcid=0723mKiVHPdfejC4EFZ5Zdur&sharer_sharetime=1627055914835&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## K
 
@@ -176,6 +234,10 @@
 
   * [用开源软件保护你的文件的 5 种方法](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489483&idx=1&sn=562d7b261eeaf0482f2acbff810cb010&chksm=e9c4e6aadeb36fbc7ee745b5ebb9a7a1395ac0bcf01295db74031b9b9d452f15c21ecccb19be&mpshare=1&scene=23&srcid=0718daFZLwXnWNhy459DKylz&sharer_sharetime=1626582266327&sharer_shareid=95e6b0ec8139f8fdad4d490f3636249e#rd)
   * [在 Linux 命令行中生成密码]([在 Linux 命令行中生成密码 | Linux 中国 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489581&idx=1&sn=d890a3a3af0430e4ce9598da8b6aa39a&chksm=e9c4e94cdeb3605a24550b3925fd0f70f8c548e8f2beafe378a35cc6d63b2d3081c1f0327a94&mpshare=1&scene=23&srcid=071883BhJTQYaiSCM07aXNdL&sharer_sharetime=1626581480830&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd))
+  * [52 图初探 Linux 通用知识 ](https://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247494631&idx=1&sn=f1b286f1eaa02b548915fb95308b1b96&chksm=9f8a8ed9a8fd07cf733be76c65a316d6e7aff29ad0a0f8bb573f2aa3ffd29c330d2c42b0ec7a&mpshare=1&scene=23&srcid=07233yhJ9XGdq12Q0UOJeOLa&sharer_sharetime=1627055851669&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Linux下c开发 之 线程通信 ](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490099&idx=1&sn=ea3d7df29fcbca1b237887d66ec1b09f&chksm=becc3b6389bbb27574c6233f24a18bd0af8ca121e271d33500b3941224134509e1c7af5fd7ed&mpshare=1&scene=23&srcid=0723QVHUf42NY6iRvqnh1L7z&sharer_sharetime=1627055825276&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [深入理解编程艺术之策略与机制相分离](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163337&idx=1&sn=d664aa25dfcdf3bdba1815da7258933d&chksm=80645b96b713d2802381af29651c77bcc49ef1a09efdd4e3db9ec0ef0e8573c2f97af5a88917&mpshare=1&scene=23&srcid=0723dR7LSjrEfwc9JXD1VnPR&sharer_sharetime=1627045044681&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [如何在 CentOS、RHEL、Rocky Linux 最小化安装中设置互联网 | Linux 中国](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489585&idx=1&sn=23087fc1aa7c75491cee11d32279f36b&chksm=e9c4e950deb36046e1f1186a4e8bab943bfc18372b669aeeed3bf9cd1c02facff36a893f4ec0&mpshare=1&scene=23&srcid=0720MfnDOt5sERdVjpIJ22aV&sharer_sharetime=1626788587910&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### LaTeX
 
@@ -189,6 +251,17 @@
   * [笔记：LaTeX不快速入门](https://www.jianshu.com/p/fd7b312a0cad)
 
 ## M
+
+### Markdown
+
+* 标签：实用工具，**新手**
+
+* 简介
+
+  > Markdown 是一个 Web 上使用的文本到HTML的转换工具，可以通过简单、易读易写的文本格式生成结构化的HTML文档。目前 github、Stackoverflow 等网站均支持这种格式。
+
+* 主观评价：
+  * 入门简单，实用方便。写文章，记笔记必备。推荐使用Typora编辑器，只要几十分钟入门，就可以放下臃肿的Word。
 
 ### MATLAB
 
@@ -205,6 +278,8 @@
 ## N
 
 ### Node.js
+
+* 标签：前端
 
 * 简介：
 
@@ -245,13 +320,18 @@
 
 ### Python语言
 
-* 标签：编程语言，新手
+* 标签：编程语言，**新手**
 
 * 简介：
 
   > Python由荷兰数学和计算机科学研究学会的[Guido van Rossum](https://baike.baidu.com/item/Guido van Rossum/3225314) 于1990 年代初设计，作为一门叫做[ABC语言](https://baike.baidu.com/item/ABC语言/334996)的替代品。 Python提供了高效的高级[数据结构](https://baike.baidu.com/item/数据结构/1450)，还能简单有效地[面向对象](https://baike.baidu.com/item/面向对象/2262089)编程。Python语法和动态类型，以及[解释型语言](https://baike.baidu.com/item/解释型语言/8888952)的本质，使它成为多数平台上写脚本和快速开发应用的编程语言，  随着版本的不断更新和语言新功能的添加，逐渐被用于独立的、大型项目的开发。 
   >
   > Python[解释器](https://baike.baidu.com/item/解释器/10418965)易于扩展，可以使用C或[C++](https://baike.baidu.com/item/C%2B%2B/99272)（或者其他可以通过C调用的语言）扩展新的功能和[数据类型](https://baike.baidu.com/item/数据类型/10997964)。  Python 也可用于可定制化软件中的扩展程序语言。Python丰富的标准库，提供了适用于各个主要系统平台的源码或[机器码](https://baike.baidu.com/item/机器码/86125)。
+
+* 相关资料：
+  * [Python静态类型解析工具简介和实践](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504284&idx=1&sn=16873dbfc3424677c632f931d54b6523&chksm=e92aec93de5d65852bf22051f85d8bd3c10475651c60c3ca3f896a802a20ac5b316d5bfe6d0a&mpshare=1&scene=23&srcid=0720Km6v0CGdc9k7nnE6CtCB&sharer_sharetime=1626788603949&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* 主观评价：
+  * 无论你是什么专业，学点python总没错
 
 ## Q
 
@@ -266,7 +346,7 @@
   > 2008年，Qt Company科技被[诺基亚公司](https://baike.baidu.com/item/诺基亚公司/10858444)收购，Qt也因此成为诺基亚旗下的编程语言工具。2012年，Qt被Digia收购。
   >
   > 2014年4月，跨平台集成开发环境Qt Creator 3.1.0正式发布，实现了对于[iOS](https://baike.baidu.com/item/iOS/45705)的完全支持，新增WinRT、Beautifier等插件，废弃了无Python接口的GDB调试支持，集成了基于Clang的C/C++代码模块，并对[Android](https://baike.baidu.com/item/Android/60243)支持做出了调整，至此实现了全面支持iOS、Android、[WP](https://baike.baidu.com/item/WP/5165077),它提供给应用程序开发者建立艺术级的图形用户界面所需的所有功能。基本上，Qt 同 [X Window](https://baike.baidu.com/item/X Window/7249336) 上的 Motif，Openwin，GTK 等图形界面库和 Windows 平台上的 MFC，OWL，VCL，ATL 是同类型的东西。
-  * 评价：对于C++基础比较好、学过面向对象的人，从0开始学习Qt到完成一个简单的小游戏大概需要3~7天。学习Qt是一个一劳永逸的事，建议新生尽早学习。
+* 主观评价：对于C++基础比较好、学过面向对象的人，从0开始学习Qt到完成一个简单的小游戏大概需要3~7天。学习Qt是一个一劳永逸的事，建议新生尽早学习。
 
 ## R
 
@@ -283,6 +363,7 @@
 * 相关资料：
 
   * [SpringBoot 的@Value注解]([SpringBoot 的@Value注解太强大了，用了都说爽！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247496703&idx=1&sn=6c6989e0d9c58d073551206c6aa9a77a&chksm=fd572379ca20aa6fb593c7c083b556f99294542005e3f65e0f01d749273a37f1573bf4b5d48c&mpshare=1&scene=23&srcid=0718QaEUAiquPWX9SfuRyCvK&sharer_sharetime=1626581382767&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd))
+  * [SpringBoot接入支付宝](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651953745&idx=1&sn=84f677601cfc7ce6b26505e8f065f1d1&chksm=8d0ff51fba787c09104b821717259330df081b20a53372eca685bf015ea0cfc7ba27d8694dea&mpshare=1&scene=23&srcid=0721Hhmv7wAJ3lQNuBoJ3Xfh&sharer_sharetime=1626860295766&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### SpringBatch
 
@@ -331,6 +412,7 @@
 * 相关资料：
 
   * [数据库的定义]([数据库是什么 | Oracle 中国](https://www.oracle.com/cn/database/what-is-database/))
+  * [分库分表之后，id 主键如何处理？ ](https://mp.weixin.qq.com/s?__biz=MzAxOTQxOTc5NQ==&mid=2650501445&idx=1&sn=67ad7b6e2669c7cda793a8c5f5372d0c&chksm=83c896b9b4bf1fafe49559f9de42220854e4858867cc0f1099811a52c1b1285d2a7c87ebdd66&mpshare=1&scene=23&srcid=0723dopTdDxYLpSoSzQS23l4&sharer_sharetime=1627055896721&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### SQL(结构化查询语言)
 
@@ -382,6 +464,7 @@
 
 * 相关文章：
   * [2.5 万字详解：23 种设计模式](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519108&idx=1&sn=b24634f5fc0ef9cd8962cedaf0cd2788&chksm=ce0e3c07f979b51138813d96244928d13a94ff974c18dddae17fdcaef0aac613a9644ce3d05d&mpshare=1&scene=23&srcid=0705EJ6y1x2FNR933Htcyurm&sharer_sharetime=1625482901541&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [命令模式&中介者模式 ](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453152691&idx=1&sn=a30669ef50a3b2e3869b7847d8210cf7&chksm=8cfd0130bb8a88269f61fe62c5265587f5348e92641bf47b5d8fa5fba6ddc53f017908056745&mpshare=1&scene=23&srcid=07208zE3QiieyQdUA2hsx1Fj&sharer_sharetime=1626788664130&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## T
 
@@ -399,6 +482,28 @@
 ## U
 
 ## V
+
+### Visual Studio Code
+
+* 标签：IDE
+
+* 简介：
+
+  > Visual Studio Code（简称“VS Code”  ）是Microsoft在2015年4月30日Build开发者大会上正式宣布一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代Web和云应用的跨平台源代码编辑器， 可在桌面上运行，并且可用于Windows，macOS和Linux。它具有对JavaScript，TypeScript和Node.js的内置支持，并具有丰富的其他语言（例如C++，C＃，Java，Python，PHP，Go）和运行时（例如.NET和Unity）扩展的生态系统。
+
+* 主观评价：
+  * 虽然C++/C的环境配置比较复杂，但是配置完后十分好用，新手必备
+
+### Visual Studio
+
+* 标签：IDE
+
+* 简介：
+
+  > Visual Studio 集成开发环境是一种创新启动板，可用于编辑、调试并生成代码，然后发布应用 。 集成开发环境 (IDE) 是一个功能丰富的程序，可用于软件开发的许多方面。 除了大多数 IDE 提供的标准编辑器和调试器之外，Visual Studio 还包括编译器、代码完成工具、图形设计器和许多其他功能，以简化软件开发过程。
+
+* 主观评价：
+  * 相比VSCode显得比较臃肿，但是对于~~C~~/C++的学习来说十分便捷。~~你老惦记着你那Dev-C++干啥？~~
 
 ## W
 
