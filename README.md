@@ -529,7 +529,7 @@
 
 * 相关文章：
   * [阿里云肖力：跳过量变过程的安全质变](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504031&idx=1&sn=55c1f58c28136a1157ef63df2734bb68&chksm=e92aed90de5d6486e842c03be46053b3221bdf515e365b6f5ea066e342346e6be772d14b0728&mpshare=1&scene=23&srcid=0705DUlHxvmOdSxKRzVUSIR1&sharer_sharetime=1625482829211&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
-  * [什么是云原生？这回终于有人讲明白了]([什么是云原生？这回终于有人讲明白了 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/150190166))
+  * [什么是云原生？这回终于有人讲明白了](https://zhuanlan.zhihu.com/p/150190166)
 
 ## Z
 
