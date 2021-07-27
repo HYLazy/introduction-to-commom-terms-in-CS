@@ -79,6 +79,8 @@
   * [谈谈C++新标准带来的属性（Attribute） ](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504289&idx=1&sn=5d3a4c3cef4a44488a40540510e7c7b5&chksm=e92aecaede5d65b84060ef062f0bef56081458464b36eb2782d213683474f488b44217af7c45&mpshare=1&scene=23&srcid=0721lrb1vijm546RLaAY5rAw&sharer_sharetime=1626828380135&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [每个工程师都应该了解的一些 C++ 特性 ](https://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247494281&idx=1&sn=eba073e3283333554de9d9dc40fd1d7f&chksm=9f8a8fb7a8fd06a11b876015d0197371bc00ace21814fef99e2f7ba1c15d002bc19e0d5dfca7&mpshare=1&scene=23&srcid=0719NF08D5ojfWOibB1B5X78&sharer_sharetime=1626710303025&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [重磅干货：五万字长文总结 C/C++ 知识（下） ](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163271&idx=1&sn=466313fdd12db9bcfc5473bb99d4203f&chksm=80645bd8b713d2ce0535684be16dfa4c8914d5d60c3ca5e7843c13a093c90acab3b90c781be5&mpshare=1&scene=23&srcid=07192SMfNQWbp9JPUVPp5hCM&sharer_sharetime=1626624812953&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ 虚函数表剖析 ](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490122&idx=1&sn=87dc5abcacc1c76c75a6a955beead040&chksm=becc3a9a89bbb38c55a0522d498ad04514477df7b4b9ae4afdfd4a30b7161a1d0e348ed3506a&mpshare=1&scene=23&srcid=0726tJgdzw9x0oCjC9KHXneE&sharer_sharetime=1627304599546&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ 并行编程中的“锁”难题 ](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163356&idx=1&sn=c40d8e2dc810dc4b433e1f4afd00f020&chksm=80645b83b713d2952d32145bd18789c81e4feb241154488ee4816347c48bc77cd1cf05c80ecc&mpshare=1&scene=23&srcid=0726mrzvgzdxuswdxOy4HYEU&sharer_sharetime=1627275530939&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### CI/CD 管道
 
@@ -125,7 +127,17 @@
 * 相关资料：
   * [DevOps发布策略简介](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504053&idx=1&sn=d81ed8301ad290c7f04cbf0a7f6be1d9&chksm=e92aedbade5d64ac0f979275848c4664609e9be8e0254b04129dec214b59bb0c5e26ea549761&mpshare=1&scene=23&srcid=0707NMIx0bb4zqCBdzPpBTsP&sharer_sharetime=1625650520997&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
-## E
+### Dubbo
+
+* 标签：开发，框架，JAVA
+
+* 简介：
+
+  > Dubbo(读音[ˈdʌbəʊ])是阿里巴巴公司开源的一个高性能优秀的服务框架，使得应用可通过高性能的 RPC 实现服务的输出和输入功能，可以和 Spring框架无缝集成。
+  > Dubbo是一款高性能、轻量级的开源Java RPC框架，它提供了三大核心能力：面向接口的远程方法调用，智能容错和负载均衡，以及服务自动注册和发现。
+
+* 相关资料：
+  * [有赞服务注册与发现架构演进](https://mp.weixin.qq.com/s?__biz=MzAxOTY5MDMxNA==&mid=2455763062&idx=1&sn=8c798bb34be00fa0a0c777c91d75188c&chksm=8c687e53bb1ff7455b094441d866bf2f2f7f36b2858ece0b9dc02b68a7360ee58bf1300cb05f&mpshare=1&scene=23&srcid=0726Whrsh3WZj5zFMDgKE4FW&sharer_sharetime=1627299000896&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## F
 
@@ -137,6 +149,7 @@
 
 * 相关资料：
   * [到底什么是分布式系统？](https://zhuanlan.zhihu.com/p/62623474)
+  * [Azkaban、Xxl-Job与Airflow对比分析 ](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651862493&idx=1&sn=981d3741b5ecb5a97e5b2d59448f4402&chksm=80497094b73ef9823f0f6a1eafcc468cf0c01354c5d81ca6e0e812555611b06fd612ce1b2700&mpshare=1&scene=23&srcid=072667X4KcD7auA00fy6IPyW&sharer_sharetime=1627304630832&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## G
 
@@ -275,6 +288,30 @@
   >
   > MATLAB和[Mathematica](https://baike.baidu.com/item/Mathematica)、[Maple](https://baike.baidu.com/item/Maple/2306572)并称为三大数学软件。它在数学类科技应用软件中在数值计算方面首屈一指。行[矩阵](https://baike.baidu.com/item/矩阵)运算、绘制函数和数据、实现算法、创建用户界面、连接其他编程语言的程序等。MATLAB的基本数据单位是矩阵，它的[指令](https://baike.baidu.com/item/指令/3225201)[表达式](https://baike.baidu.com/item/表达式/7655228)与数学、工程中常用的形式十分相似，故用MATLAB来解算问题要比用C，[FORTRAN](https://baike.baidu.com/item/FORTRAN)等语言完成相同的事情简捷得多，并且MATLAB也吸收了像Maple等软件的优点，使MATLAB成为一个强大的[数学软件](https://baike.baidu.com/item/数学软件/3363734)。在新的版本中也加入了对[C](https://baike.baidu.com/item/C/7252092)，[FORTRAN](https://baike.baidu.com/item/FORTRAN)，[C++](https://baike.baidu.com/item/C%2B%2B)，[JAVA](https://baike.baidu.com/item/JAVA/85979)的支持。
 
+### MyBatis
+
+* 标签：框架，JAVA,MySQL
+
+* 简介：
+
+  > MyBatis 是一款优秀的持久层框架，它支持定制化 SQL、存储过程以及高级映射。MyBatis 避免了几乎所有的 JDBC 代码和手动设置参数以及获取结果集。MyBatis 可以使用简单的 XML 或注解来配置和映射原生信息，将接口和 Java 的 POJOs(Plain Ordinary Java Object,普通的 Java对象)映射成数据库中的记录。
+
+* 相关资料
+  * [MyBatis 速成手册](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519940&idx=2&sn=1512f11f5b844e69f409e33a1e717d2e&chksm=ce0e3947f979b0513c5241300b80307380a5a2accef6b2da02905ce4d91703e280d4fb610b9f&mpshare=1&scene=23&srcid=072616dIbgrVMhHRTsQJVoed&sharer_sharetime=1627275604915&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+### MySQL
+
+* 标签：数据库
+
+* 简介：
+
+  > MySQL是一个关系型数据库管理系统，由瑞典MySQL AB 公司开发，属于 Oracle 旗下产品。MySQL 是最流行的关系型数据库管理系统之一，在 WEB 应用方面，MySQL是最好的 RDBMS (Relational Database Management System，关系数据库管理系统) 应用软件之一。
+  > MySQL是一种关系型数据库管理系统，关系数据库将数据保存在不同的表中，而不是将所有数据放在一个大仓库内，这样就增加了速度并提高了灵活性。
+  > MySQL所使用的 SQL 语言是用于访问数据库的最常用标准化语言。MySQL 软件采用了双授权政策，分为社区版和商业版，由于其体积小、速度快、总体拥有成本低，尤其是开放源码这一特点，一般中小型网站的开发都选择 MySQL 作为网站数据库。
+
+* 相关资料
+  * [MySQL 8.0 Server层最新架构详解](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504340&idx=1&sn=d061b217a5be9e245964bb5d74a3887d&chksm=e92aecdbde5d65cdb6841d03e3ef124cce2e0d50428e1f3aae7a81582864334d31fa5266e7dd&mpshare=1&scene=23&srcid=072694TtD34dNoYxmyIFrSW4&sharer_sharetime=1627275547492&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ## N
 
 ### Node.js
@@ -364,6 +401,7 @@
 
   * [SpringBoot 的@Value注解](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247496703&idx=1&sn=6c6989e0d9c58d073551206c6aa9a77a&chksm=fd572379ca20aa6fb593c7c083b556f99294542005e3f65e0f01d749273a37f1573bf4b5d48c&mpshare=1&scene=23&srcid=0718QaEUAiquPWX9SfuRyCvK&sharer_sharetime=1626581382767&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [SpringBoot接入支付宝](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651953745&idx=1&sn=84f677601cfc7ce6b26505e8f065f1d1&chksm=8d0ff51fba787c09104b821717259330df081b20a53372eca685bf015ea0cfc7ba27d8694dea&mpshare=1&scene=23&srcid=0721Hhmv7wAJ3lQNuBoJ3Xfh&sharer_sharetime=1626860295766&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [40 个 Spring Boot 常用注解](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519940&idx=1&sn=9b2c4f4bd6ec7c3bdb048b31d1a06dc9&chksm=ce0e3947f979b0512ae2c4e48c5561e7ba66be6ab7a5c15a574a99e28fbceeba656ed8f00465&mpshare=1&scene=23&srcid=0726LxDfigSgZdGwlQQssNav&sharer_sharetime=1627275588910&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### SpringBatch
 
@@ -465,6 +503,7 @@
 * 相关文章：
   * [2.5 万字详解：23 种设计模式](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519108&idx=1&sn=b24634f5fc0ef9cd8962cedaf0cd2788&chksm=ce0e3c07f979b51138813d96244928d13a94ff974c18dddae17fdcaef0aac613a9644ce3d05d&mpshare=1&scene=23&srcid=0705EJ6y1x2FNR933Htcyurm&sharer_sharetime=1625482901541&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [命令模式&中介者模式 ](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453152691&idx=1&sn=a30669ef50a3b2e3869b7847d8210cf7&chksm=8cfd0130bb8a88269f61fe62c5265587f5348e92641bf47b5d8fa5fba6ddc53f017908056745&mpshare=1&scene=23&srcid=07208zE3QiieyQdUA2hsx1Fj&sharer_sharetime=1626788664130&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [设计模式在业务系统中的应用](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504353&idx=1&sn=e2e91db76cdcdb8ce015ec10e107b749&chksm=e92aeceede5d65f8603919d22f92623bdbd5ae12d671f33f118e7b035fb4c70f3e245e95b5e2&mpshare=1&scene=23&srcid=0727WqRAa9pJQyIYlJjLguv7&sharer_sharetime=1627361130697&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## T
 
