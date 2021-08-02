@@ -198,8 +198,6 @@
 
 * 简介
 
-  > ### JavaScript历史
-  >
   > 要了解JavaScript，我们首先要回顾一下JavaScript的诞生。
   >
   > 在上个世纪的1995年，当时的网景公司正凭借其Navigator浏览器成为Web时代开启时最著名的第一代互联网公司。
@@ -225,7 +223,7 @@
   > 此外，由于JavaScript的标准——ECMAScript在不断发展，最新版ECMAScript 6标准（简称ES6）已经在2015年6月正式发布了，所以，讲到JavaScript的版本，实际上就是说它实现了ECMAScript标准的哪个版本。
   >
   > 由于浏览器在发布时就确定了JavaScript的版本，加上很多用户还在使用IE6这种古老的浏览器，这就导致你在写JavaScript的时候，要照顾一下老用户，不能一上来就用最新的ES6标准写，否则，老用户的浏览器是无法运行新版本的JavaScript代码的。
-
+  
 * 相关资料：
   * [淘宝小部件：全新的开放卡片技术！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504324&idx=1&sn=a0e9226d80b63d683a9047ee8e8052fd&chksm=e92aeccbde5d65ddba2cc3216ca369b6617c7f2e8774b952b0c90cbfdedc0a382460622f8641&mpshare=1&scene=23&srcid=0723mKiVHPdfejC4EFZ5Zdur&sharer_sharetime=1627055914835&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
@@ -251,6 +249,8 @@
   * [Linux下c开发 之 线程通信 ](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490099&idx=1&sn=ea3d7df29fcbca1b237887d66ec1b09f&chksm=becc3b6389bbb27574c6233f24a18bd0af8ca121e271d33500b3941224134509e1c7af5fd7ed&mpshare=1&scene=23&srcid=0723QVHUf42NY6iRvqnh1L7z&sharer_sharetime=1627055825276&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [深入理解编程艺术之策略与机制相分离](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163337&idx=1&sn=d664aa25dfcdf3bdba1815da7258933d&chksm=80645b96b713d2802381af29651c77bcc49ef1a09efdd4e3db9ec0ef0e8573c2f97af5a88917&mpshare=1&scene=23&srcid=0723dR7LSjrEfwc9JXD1VnPR&sharer_sharetime=1627045044681&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [如何在 CentOS、RHEL、Rocky Linux 最小化安装中设置互联网 | Linux 中国](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489585&idx=1&sn=23087fc1aa7c75491cee11d32279f36b&chksm=e9c4e950deb36046e1f1186a4e8bab943bfc18372b669aeeed3bf9cd1c02facff36a893f4ec0&mpshare=1&scene=23&srcid=0720MfnDOt5sERdVjpIJ22aV&sharer_sharetime=1626788587910&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [其实 Linux IO 模型没那么难 ](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453152913&idx=2&sn=ec8b967d37e21ca5dccbee274409cc48&chksm=8cfd0612bb8a8f049fc875a0c4abd41ac1530e3b796de6b6853700550d6735370b9d56fc0b70&mpshare=1&scene=23&srcid=08026bXYFM7kS0f5S7oz1ATk&sharer_sharetime=1627876869863&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [扒开 Linux 中断的底裤之 workqueue ](https://mp.weixin.qq.com/s?__biz=MzIxMjE1MzU4OA==&mid=2648926156&idx=1&sn=a785907196fbee0ed9fbd67c78faf652&chksm=8f5da257b82a2b410385758828b17bdf7e44472eb5837056a2fdf9754053370f9bbc9dc775cc&mpshare=1&scene=23&srcid=0802TEHA8EVb2LpyD2trW5Dj&sharer_sharetime=1627876827389&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### LaTeX
 
@@ -389,6 +389,24 @@
 
 ## S
 
+### SSM
+
+* 标签：框架，JAVA
+
+* 简介：
+
+  > SSM（Spring+SpringMVC+MyBatis）框架集由Spring、MyBatis两个开源框架整合而成（SpringMVC是Spring中的部分内容）。常作为数据源较简单的web项目的框架。
+  >
+  > Spring就像是整个项目中装配bean的大工厂，在配置文件中可以指定使用特定的参数去调用实体类的构造方法来实例化对象。也可以称之为项目中的粘合剂。Spring的核心思想是IoC（控制反转），即不再需要程序员去显式地`new`一个对象，而是让Spring框架帮你来完成这一切。
+  > SpringMVC在项目中拦截用户请求，它的核心Servlet即DispatcherServlet承担中介或是前台这样的职责，将用户请求通过HandlerMapping去匹配Controller，Controller就是具体对应请求所执行的操作。SpringMVC相当于SSH框架中struts。
+  > mybatis是对jdbc的封装，它让数据库底层操作变的透明。mybatis的操作都是围绕一个sqlSessionFactory实例展开的。mybatis通过配置文件关联到各实体类的Mapper文件，Mapper文件中配置了每个类对数据库所需进行的sql语句映射。在每次与数据库交互时，通过sqlSessionFactory拿到一个sqlSession，再执行sql命令。
+  >
+  > 页面发送请求给控制器，控制器调用业务层处理逻辑，逻辑层向持久层发送请求，持久层与数据库交互，后将结果返回给业务层，业务层将处理逻辑发送给控制器，控制器再调用视图展现数据。
+
+* 相关资料：
+
+  * [SpringBoot与MyBatis整合详细讲述 ](https://mp.weixin.qq.com/s?__biz=Mzg4MDUxODI2OQ==&mid=2247483743&idx=1&sn=8fa676cda0f617ad1bfd70761b1b0498&chksm=cf72b44df8053d5b63ac4376700734a7fd55b2ce119e426890e36217dde68c68193fb4e6d5e6&mpshare=1&scene=23&srcid=0802rqRPaAXbuqVfHp95litq&sharer_sharetime=1627877019456&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ### SpringBoot
 
 * 标签：JAVA，Spring，框架
@@ -518,6 +536,23 @@
 * 相关资料：
   * [笔记：LaTeX不快速入门](https://www.jianshu.com/p/fd7b312a0cad)
 
+### TCP(传输控制协议)
+
+* 标签：计算机网络
+
+* 简介：
+
+  > 传输控制协议（TCP，Transmission Control Protocol）是为了在不可靠的互联网络上提供可靠的端到端字节流而专门设计的一个传输协议。
+  > 互联网络与单个网络有很大的不同，因为互联网络的不同部分可能有截然不同的拓扑结构、带宽、延迟、数据包大小和其他参数。TCP的设计目标是能够动态地适应互联网络的这些特性，而且具备面对各种故障时的健壮性。
+  > 不同主机的应用层之间经常需要可靠的、像管道一样的连接，但是IP层不提供这样的流机制，而是提供不可靠的包交换。 
+  > 应用层向TCP层发送用于网间传输的、用8位字节表示的数据流，然后TCP把数据流分区成适当长度的报文段（通常受该计算机连接的网络的数据链路层的最大传输单元（MTU）的限制）。之后TCP把结果包传给IP层，由它来通过网络将包传送给接收端实体的TCP层。TCP为了保证不发生丢包，就给每个包一个序号，同时序号也保证了传送到接收端实体的包的按序接收。然后接收端实体对已成功收到的包发回一个相应的确认（ACK）；如果发送端实体在合理的往返时延（RTT）内未收到确认，那么对应的数据包就被假设为已丢失将会被进行重传。TCP用一个校验和函数来检验数据是否有错误；在发送和接收时都要计算校验和。 
+  > 每台支持TCP的机器都有一个TCP传输实体。TCP实体可以是一个库过程、一个用户进程，或者内核的一部分。在所有这些情形下，它管理TCP流，以及与IP层之间的接口。TCP传输实体接受本地进程的用户数据流，将它们分割成不超过64KB（实际上去掉IP和TCP头，通常不超过1460数据字节）的分段，每个分段以单独的IP数据报形式发送。当包含TCP数据的数据报到达一台机器时，它们被递交给TCP传输实体，TCP传输实体重构出原始的字节流。为简化起见，我们有时候仅仅用“TCP”来代表TCP传输实体（一段软件）或者TCP协议（一组规则）。根据上下文语义你应该能很消楚地推断出其实际含义。例如，在“用户将数据交给TCP”这句话中，很显然这里指的是TCP传输实体。 
+  > IP层并不保证数据报一定被正确地递交到接收方，也不指示数据报的发送速度有多快。正是TCP负责既要足够快地发送数据报，以便使用网络容量，但又不能引起网络拥塞：而且，TCP超时后，要重传没有递交的数据报。即使被正确递交的数据报，也可能存在错序的问题，这也是TCP的责任，它必须把接收到的数据报重新装配成正确的顺序。简而言之，TCP必须提供可靠性的良好性能，这正是大多数用户所期望的而IP又没有提供的功能。 
+
+*  相关资料：
+
+  * [最多能创建多少个 TCP 连接？](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163422&idx=1&sn=188132cc05cab64115bab15f893cf8f2&chksm=80645a41b713d357bb725a1d53f2504255f6eb026e56a36bff038a2a895c9e9f35f787a4da59&mpshare=1&scene=23&srcid=0802XGqvJNjQV0ZExi0oP3cC&sharer_sharetime=1627879699193&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ## U
 
 ## V
@@ -547,6 +582,23 @@
 ## W
 
 ## X
+
+### XML(可扩展标记语言)
+
+* 简介：
+
+  > - XML 指可扩展标记语言（*EX*tensible *M*arkup *L*anguage）
+  > - XML 是一种*标记语言*，很类似 HTML
+  > - XML 的设计宗旨是*传输数据*，而非显示数据
+  > - XML 标签没有被预定义。您需要*自行定义标签*。
+  > - XML 被设计为具有*自我描述性*。
+
+* 相关文章：
+
+  * [什么是 XML？](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489611&idx=1&sn=89004881d4dbaa0e4bfa4d729509a076&chksm=e9c4e92adeb3603cb6e5256742f33cc5059df9c1bd02419b75b526a246aa7f532fbfc7fe93ae&mpshare=1&scene=23&srcid=080246HsIECpWLwuJXEyLoME&sharer_sharetime=1627876777310&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+  * [XML 简介](https://www.w3school.com.cn/xml/xml_intro.asp)
+  * [在命令行中使用 XMLStarlet 来解析 XML ](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489611&idx=2&sn=7e63ff9ea372da9401b573a3c68cd480&chksm=e9c4e92adeb3603c7438f3c12576dd3051032f8ba09eb2096145909e0953d2adc3d337909f62&mpshare=1&scene=23&srcid=0802c7Vq7ZkzcZxip1SBt0NL&sharer_sharetime=1627876794092&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## Y
 
