@@ -175,6 +175,23 @@
 
 ## I
 
+### IOC
+
+* 标签：java，spring
+
+* 简介：
+
+  > IOC—Inversion of Control，即“控制反转”，不是什么技术，而是一种设计思想。在Java开发中，Ioc意味着将你设计好的对象交给容器控制，而不是传统的在你的对象内部直接控制。
+  >
+  > 如何理解好Ioc呢？理解好Ioc的关键是要明确“谁控制谁，控制什么，为何是反转（有反转就应该有正转了），哪些方面反转了”，那我们来深入分析一下：
+  >
+  > **谁控制谁，控制什么：** 传统Java SE程序设计，我们直接在对象内部通过new进行创建对象，是程序主动去创建依赖对象；而IOC是有专门一个容器来创建这些对象，即由IOc容器来控制对象的创建而不再显式地使用new；谁控制谁？当然是IOC容器控制了对象；控制什么？那就是主要控制了外部资源获取和生命周期（不只是对象也包括文件等）。
+  >
+  > **为何是反转，哪些方面反转了：** 有反转就有正转，传统应用程序是由我们自己在对象中主动控制去直接获取依赖对象，也就是正转；而反转则是由容器来帮忙创建及注入依赖对象；为何是反转？因为由容器帮我们查找及注入依赖对象，对象只是被动的接受依赖对象，所以是反转；哪些方面反转了？依赖对象的获取被反转了。
+
+* 相关资料：
+  * [这可能是对 IOC 和 DI 解释的最清楚的一篇文章了！](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247496963&idx=2&sn=9d8001f614d3477fcbe8529a0dee6c2e&chksm=fd572585ca20ac9315c7ce4f42abaef598523254f7d6150e287e033b73bfd1874dd3d9720e99&mpshare=1&scene=23&srcid=0730g9nmPo7TZx3VYJ4DHKYq&sharer_sharetime=1627621931057&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ## J
 
 ### JAVA语言
@@ -225,7 +242,19 @@
   > 由于浏览器在发布时就确定了JavaScript的版本，加上很多用户还在使用IE6这种古老的浏览器，这就导致你在写JavaScript的时候，要照顾一下老用户，不能一上来就用最新的ES6标准写，否则，老用户的浏览器是无法运行新版本的JavaScript代码的。
   
 * 相关资料：
-  * [淘宝小部件：全新的开放卡片技术！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504324&idx=1&sn=a0e9226d80b63d683a9047ee8e8052fd&chksm=e92aeccbde5d65ddba2cc3216ca369b6617c7f2e8774b952b0c90cbfdedc0a382460622f8641&mpshare=1&scene=23&srcid=0723mKiVHPdfejC4EFZ5Zdur&sharer_sharetime=1627055914835&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [淘宝小部件：全新的开放卡片技术！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504324&idx=1&sn=a0e9226d80b63d683a9047ee8e8052fd&chksm=e92aeccbde5d65ddba2cc3216ca369b6617c7f2e8774b952b0c90cbfdedc0a382460622f8641&mpshare=1&scene=23&srcid=0723mKiVHPdfejC4EFZ5Zdur&sharer_sharetime=1627055914835&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)、
+
+### Jenkins
+
+* 标签：开发
+
+* 简介：
+
+  > Jenkins是一个开源的、提供友好操作界面的持续集成(CI)工具，起源于Hudson（Hudson是商用的），主要用于持续、自动的构建/测试软件项目、监控外部任务的运行（这个比较抽象，暂且写上，不做解释）。Jenkins用Java语言编写，可在Tomcat等流行的servlet容器中运行，也可独立运行。通常与版本管理工具(SCM)、构建工具结合使用。常用的版本控制工具有SVN、GIT，构建工具有Maven、Ant、Gradle。
+
+* 相关资料：
+
+  * [Jenkins详细教程](https://www.jianshu.com/p/5f671aca2b5a)
 
 ## K
 
@@ -262,6 +291,20 @@
 
 * 相关资料：
   * [笔记：LaTeX不快速入门](https://www.jianshu.com/p/fd7b312a0cad)
+
+### Lambda表达式
+
+* 标签：程序设计
+
+* 简介：
+
+  > Lambda 表达式（lambda expression）是一个匿名函数，Lambda表达式基于数学中的λ演算得名，直接对应于其中的lambda抽象（lambda abstraction），是一个匿名函数，即没有函数名的函数。Lambda表达式可以表示闭包（注意和数学传统意义上的不同）。
+
+* 相关资料：
+
+  * [贯穿 C++ 11 与 C++ 17 的 Lambda 到底是个什么？](https://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247495646&idx=1&sn=0d8e79c5503aabd48f9a3740cefc086b&chksm=9f8a8ae0a8fd03f640c9dd9f192e43c3dfe99992dda3392002512f509a08ed71ba6117cb9449&mpshare=1&scene=23&srcid=0728SWWzlc1gRqESajV9kNpV&sharer_sharetime=1627486955644&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+
 
 ## M
 
@@ -420,6 +463,7 @@
   * [SpringBoot 的@Value注解](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247496703&idx=1&sn=6c6989e0d9c58d073551206c6aa9a77a&chksm=fd572379ca20aa6fb593c7c083b556f99294542005e3f65e0f01d749273a37f1573bf4b5d48c&mpshare=1&scene=23&srcid=0718QaEUAiquPWX9SfuRyCvK&sharer_sharetime=1626581382767&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [SpringBoot接入支付宝](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651953745&idx=1&sn=84f677601cfc7ce6b26505e8f065f1d1&chksm=8d0ff51fba787c09104b821717259330df081b20a53372eca685bf015ea0cfc7ba27d8694dea&mpshare=1&scene=23&srcid=0721Hhmv7wAJ3lQNuBoJ3Xfh&sharer_sharetime=1626860295766&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [40 个 Spring Boot 常用注解](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519940&idx=1&sn=9b2c4f4bd6ec7c3bdb048b31d1a06dc9&chksm=ce0e3947f979b0512ae2c4e48c5561e7ba66be6ab7a5c15a574a99e28fbceeba656ed8f00465&mpshare=1&scene=23&srcid=0726LxDfigSgZdGwlQQssNav&sharer_sharetime=1627275588910&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [10000 字讲清楚 Spring Boot 注解原理](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247520032&idx=1&sn=d37533cec80f39e41e2e4d4187441150&chksm=ce0e38a3f979b1b59541ac41bd81b4102dbe1786e7da350c97e9effc49a43a70c6680059ceec&mpshare=1&scene=23&srcid=07307yeiW9OJApCBXmVfEbYU&sharer_sharetime=1627627572391&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### SpringBatch
 
@@ -522,6 +566,42 @@
   * [2.5 万字详解：23 种设计模式](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519108&idx=1&sn=b24634f5fc0ef9cd8962cedaf0cd2788&chksm=ce0e3c07f979b51138813d96244928d13a94ff974c18dddae17fdcaef0aac613a9644ce3d05d&mpshare=1&scene=23&srcid=0705EJ6y1x2FNR933Htcyurm&sharer_sharetime=1625482901541&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [命令模式&中介者模式 ](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453152691&idx=1&sn=a30669ef50a3b2e3869b7847d8210cf7&chksm=8cfd0130bb8a88269f61fe62c5265587f5348e92641bf47b5d8fa5fba6ddc53f017908056745&mpshare=1&scene=23&srcid=07208zE3QiieyQdUA2hsx1Fj&sharer_sharetime=1626788664130&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [设计模式在业务系统中的应用](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504353&idx=1&sn=e2e91db76cdcdb8ce015ec10e107b749&chksm=e92aeceede5d65f8603919d22f92623bdbd5ae12d671f33f118e7b035fb4c70f3e245e95b5e2&mpshare=1&scene=23&srcid=0727WqRAa9pJQyIYlJjLguv7&sharer_sharetime=1627361130697&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+### 树
+
+* 标签：数据结构，算法
+
+* 简介：
+
+  > 在计算机科学中，树（英语：tree）是一种抽象数据类型（ADT）或是实现这种抽象数据类型的数据结构，用来模拟具有树状结构性质的数据集合。它是由n（n>0）个有限节点组成一个具有层次关系的集合。把它叫做“树”是因为它看起来像一棵倒挂的树，也就是说它是根朝上，而叶朝下的。它具有以下的特点：
+  >
+  > 1. 每个节点都只有有限个子节点或无子节点；
+  > 2. 没有父节点的节点称为根节点；
+  > 3. 每一个非根节点有且只有一个父节点；
+  > 4. 除了根节点外，每个子节点可以分为多个不相交的子树；
+  > 5. 树里面没有环路(cycle)
+
+* 相关资料：
+
+  * [树（数据结构）](https://zh.wikipedia.org/wiki/%E6%A0%91_(%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84))
+  * [看看这些树的最大深度！](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247491804&idx=2&sn=b23e425ab9169abb1dbf7208d9ac4a65&chksm=f9a1d38dced65a9bb0a71a5b4798dd55514497bc6b295862bc141ce396fa2a00dd6b84de223d&mpshare=1&scene=23&srcid=0730hDId6eQYlBuN6lkFJSCp&sharer_sharetime=1627616286025&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+### 锁
+
+* 标签：高并发
+
+* 简介：
+
+  > 在计算机科学中，锁是在执行多线程时用于强行限制资源访问的同步机制，即用于在并发控制中保证对互斥要求的满足。
+  >
+  > 一般的锁是建议锁（advisory lock），每个线程在访问对应资源前都需获取锁的信息，再根据信息决定是否可以访问。若访问对应信息，锁的状态会改变为锁定，因此其他线程此时不会访问该资源，当资源结束后，会恢复锁的状态，允许其他线程的访问。
+  >
+  > 有些系统有强制锁（mandatory lock），若有未授权的线程想要访问锁定的资料，在访问时就会产生异常。
+
+* 相关资料：
+
+  * [锁（计算机科学）](https://zh.wikipedia.org/wiki/%E9%94%81_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))
+  * [深入理解 RCU 核心原理](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163409&idx=1&sn=bed98c68ebeb7ffdfb9c91febd0f5713&chksm=80645a4eb713d3580db29964e90026e2390ef5e2e77a0f2e9164433e8008bb0d3440bff0c972&mpshare=1&scene=23&srcid=07295hFlaE3PJN9nyuowhrq8&sharer_sharetime=1627539604103&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## T
 
@@ -629,6 +709,10 @@
 * 标签：C++
 * 相关文章：
   * [我常用的 10 个 C++ 新特性](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163001&idx=1&sn=785da206529f257cc337e75f1becc56f&chksm=80645826b713d130feb765c40ca173b1fc9a8ba7a62ebf9f66bb20c40ee4b75b0c30048f5737&mpshare=1&scene=23&srcid=0702bDK9I3bVmhx3DgJRwJSx&sharer_sharetime=1625215100229&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+## 其他
+
+* [阿里仿真灰度变更测试简介](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504384&idx=1&sn=2d9f415e0133ae81f4f8e8adcf7a9390&chksm=e92aef0fde5d6619620e8e047aec34586c56d5dc79a7bb3317fa8105bd9af7ea17d2406b2da8&mpshare=1&scene=23&srcid=0729YAOhTpTo8nGkVjGptafE&sharer_sharetime=1627539520790&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 
 
