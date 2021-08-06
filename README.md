@@ -81,6 +81,8 @@
   * [重磅干货：五万字长文总结 C/C++ 知识（下） ](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163271&idx=1&sn=466313fdd12db9bcfc5473bb99d4203f&chksm=80645bd8b713d2ce0535684be16dfa4c8914d5d60c3ca5e7843c13a093c90acab3b90c781be5&mpshare=1&scene=23&srcid=07192SMfNQWbp9JPUVPp5hCM&sharer_sharetime=1626624812953&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [C++ 虚函数表剖析 ](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490122&idx=1&sn=87dc5abcacc1c76c75a6a955beead040&chksm=becc3a9a89bbb38c55a0522d498ad04514477df7b4b9ae4afdfd4a30b7161a1d0e348ed3506a&mpshare=1&scene=23&srcid=0726tJgdzw9x0oCjC9KHXneE&sharer_sharetime=1627304599546&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [C++ 并行编程中的“锁”难题 ](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163356&idx=1&sn=c40d8e2dc810dc4b433e1f4afd00f020&chksm=80645b83b713d2952d32145bd18789c81e4feb241154488ee4816347c48bc77cd1cf05c80ecc&mpshare=1&scene=23&srcid=0726mrzvgzdxuswdxOy4HYEU&sharer_sharetime=1627275530939&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [shared_ptr 是线程安全的吗？](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163446&idx=1&sn=06d8aee4d2e5f1d70f592d8230695dc3&chksm=80645a69b713d37f787f5a177cfb6786803de6392d5a15e5815514f2e313916b0d9ea1500038&mpshare=1&scene=23&srcid=08046HUzdWqoLPpIufqxEPKv&sharer_sharetime=1628068933216&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ vector 使用注意事项](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490163&idx=1&sn=f7f93471c40424ee81f551cb09857cf0&chksm=becc3aa389bbb3b5c10d534959034ee007bdf6e1d950840007ec965b8c1783b05225b8d6b704&mpshare=1&scene=23&srcid=0806peb6JQhondEAM3C1LXQ2&sharer_sharetime=1628220844564&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### CI/CD 管道
 
@@ -138,6 +140,19 @@
 
 * 相关资料：
   * [有赞服务注册与发现架构演进](https://mp.weixin.qq.com/s?__biz=MzAxOTY5MDMxNA==&mid=2455763062&idx=1&sn=8c798bb34be00fa0a0c777c91d75188c&chksm=8c687e53bb1ff7455b094441d866bf2f2f7f36b2858ece0b9dc02b68a7360ee58bf1300cb05f&mpshare=1&scene=23&srcid=0726Whrsh3WZj5zFMDgKE4FW&sharer_sharetime=1627299000896&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+## E
+
+### Elasticsearch
+
+* 标签：搜索引擎
+
+* 简介：
+
+  > Elasticsearch 是一个分布式、RESTful 风格的搜索和数据分析引擎，能够解决不断涌现出的各种用例。 作为 Elastic Stack 的核心，它集中存储您的数据，帮助您发现意料之中以及意料之外的情况。
+
+* 相关资料：
+  * [elastic search添加密码验证、并且使用postman访问带密码的es ](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651862531&idx=1&sn=8d1b31feaea620dd34c3e2a4ee8448ae&chksm=8049734ab73efa5c0748336bd0faf1fe2401a92e6a12e355296fc78d621f12bf4eacb97816d8&mpshare=1&scene=23&srcid=08067ba34KrTy56YctIH8T9E&sharer_sharetime=1628220890230&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## F
 
@@ -255,6 +270,21 @@
 * 相关资料：
 
   * [Jenkins详细教程](https://www.jianshu.com/p/5f671aca2b5a)
+
+### 机器学习
+
+* 标签：人工智能
+
+* 简介：
+
+  > 机器学习是一门多学科交叉专业，涵盖概率论知识，统计学知识，近似理论知识和复杂算法知识，使用计算机作为工具并致力于真实实时的模拟人类学习方式，并将现有内容进行知识结构划分来有效提高学习效率。 
+  > 机器学习有下面几种定义：
+  > （1）机器学习是一门人工智能的科学，该领域的主要研究对象是人工智能，特别是如何在经验学习中改善具体算法的性能。
+  > （2）机器学习是对能通过经验自动改进的计算机算法的研究。
+  > （3）机器学习是用数据或以往的经验，以此优化计算机程序的性能标准。 
+
+* 相关资料：
+  * [用 Python 轻松实现机器学习](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489615&idx=1&sn=9a2ca6a1b8048088da56dd1b0219ff87&chksm=e9c4e92edeb360387f05fce4fe8642411e98a0071eea4bfff626272b5a896a680147b9cf746b&mpshare=1&scene=23&srcid=0804xTGDelYLt52ZjRdEAAqZ&sharer_sharetime=1628068979986&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## K
 
@@ -713,6 +743,7 @@
 ## 其他
 
 * [阿里仿真灰度变更测试简介](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504384&idx=1&sn=2d9f415e0133ae81f4f8e8adcf7a9390&chksm=e92aef0fde5d6619620e8e047aec34586c56d5dc79a7bb3317fa8105bd9af7ea17d2406b2da8&mpshare=1&scene=23&srcid=0729YAOhTpTo8nGkVjGptafE&sharer_sharetime=1627539520790&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [试着读懂你的心——闲鱼聊天小助手的探索之路](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487584&idx=1&sn=b5af1dad1504cbbf54fc8bd03676eb29&chksm=fd54c471ca234d6767b4f38c48dcb48f8971d4db87ebe62fc6e157162cd367503e8513d703ca&mpshare=1&scene=23&srcid=0804TrTQjfKaAzrOYyUibil7&sharer_sharetime=1628069023544&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 
 
