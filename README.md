@@ -13,6 +13,18 @@
 
 ## A
 
+### Anaconda
+
+* 标签：python，实用工具
+
+* 简介：
+
+  > Anaconda是可以便捷获取包且对包能够进行管理，同时对环境可以统一管理的发行版本。Anaconda包含了conda、Python在内的超过180个科学包及其依赖项。
+
+* 相关资料：
+
+  * [Anaconda介绍、安装及使用教程 ](https://www.jianshu.com/p/62f155eb6ac5)
+
 ### API
 
 * 简介：
@@ -58,6 +70,10 @@
 * 简介：
 
   > C语言是一门面向过程的编译型语言，它的运行速度极快，仅次于汇编语言。C语言是计算机产业的核心语言，操作系统、硬件驱动、关键组件、数据库等都离不开C语言。
+  
+* 相关资料：
+
+  * [C语言中的断言](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490164&idx=1&sn=9425ade848ca27e2b003192caeb5dc2a&chksm=becc3aa489bbb3b2e6c5af682f0bf44faff953379ed43c4dd5bd6d3a792f4353890bd9b69787&mpshare=1&scene=23&srcid=0806tscBURI6nu7kftUSeV9h&sharer_sharetime=1628262375167&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### C++语言
 
@@ -81,6 +97,14 @@
   * [重磅干货：五万字长文总结 C/C++ 知识（下） ](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163271&idx=1&sn=466313fdd12db9bcfc5473bb99d4203f&chksm=80645bd8b713d2ce0535684be16dfa4c8914d5d60c3ca5e7843c13a093c90acab3b90c781be5&mpshare=1&scene=23&srcid=07192SMfNQWbp9JPUVPp5hCM&sharer_sharetime=1626624812953&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [C++ 虚函数表剖析 ](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490122&idx=1&sn=87dc5abcacc1c76c75a6a955beead040&chksm=becc3a9a89bbb38c55a0522d498ad04514477df7b4b9ae4afdfd4a30b7161a1d0e348ed3506a&mpshare=1&scene=23&srcid=0726tJgdzw9x0oCjC9KHXneE&sharer_sharetime=1627304599546&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [C++ 并行编程中的“锁”难题 ](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163356&idx=1&sn=c40d8e2dc810dc4b433e1f4afd00f020&chksm=80645b83b713d2952d32145bd18789c81e4feb241154488ee4816347c48bc77cd1cf05c80ecc&mpshare=1&scene=23&srcid=0726mrzvgzdxuswdxOy4HYEU&sharer_sharetime=1627275530939&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++常见的三种内存破坏场景和分析](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163670&idx=2&sn=554ef639de23afdb02fd04fe71dffd88&chksm=80645d49b713d45f843f455ba16d4efb8c20302a0cc2868238d98bb83942081dc44fcc32b4c7&mpshare=1&scene=23&srcid=0812ikrzDKAUosEtkQG5N1gX&sharer_sharetime=1628762527560&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [漫谈C++：良好的编程习惯与编程要点](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490167&idx=1&sn=d38bfb91eb12be53c70f98c6be0b2784&chksm=becc3aa789bbb3b15738c48148ace82fe0dd4986f228080de08952f71f5db9653b03d9a58dfb&mpshare=1&scene=23&srcid=0812cot6sxmEIMSlf2lvZIiq&sharer_sharetime=1628700879071&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [复杂的事情简单做，简单的事情重复做，重复的事情用心做 ——类的继承与派生（用心的事情会怎样？）](https://mp.weixin.qq.com/s?__biz=MzkxOTA5NzgwMw==&mid=2247485030&idx=1&sn=6838a2d2afa36c09ddb6554c362d5c08&chksm=c1a61ec2f6d197d4bfed27118e3cc258b4849137293073be6dd6c71a35cc98f60ae9cba533fc&mpshare=1&scene=23&srcid=0810Q1swjVAZhSmc99xJx81u&sharer_sharetime=1628591312157&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ 为什么不加入垃圾回收机制 ](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490166&idx=1&sn=2840d014330562206bac99e6e9eeb51e&chksm=becc3aa689bbb3b0f287c8933ec7d659797c6d902a7875ef026b17b48c669aba3ba5e74c5cb0&mpshare=1&scene=23&srcid=0810CQcFzQNEB9mwskwHZn9p&sharer_sharetime=1628591285630&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [一文掌握 C++ 智能指针的使用](https://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247496208&idx=1&sn=0b7b29aaef3736e0ab9351d78fcec8c4&chksm=9f8a972ea8fd1e38c227c5e03e89dfe7e231db9d2afccbbc6d97fb6095be92953eaf1d2f714a&mpshare=1&scene=23&srcid=08107jouzGYaQh38hN8pPxCa&sharer_sharetime=1628591233837&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [如何设计结构体](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163651&idx=1&sn=cbc87e36c253b8adfad6c1167a3cf99f&chksm=80645d5cb713d44ad01cdbb6de768ecf147948f2afcb362970b4967b725a25a10e5bfc22f750&mpshare=1&scene=23&srcid=0810WUcIDOl8TBszrsv35vNh&sharer_sharetime=1628591122269&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C/C++ 二进制读写 png 文件](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490165&idx=1&sn=8e53a7eb3f68d5e6c73f14b0270eed38&chksm=becc3aa589bbb3b31858ab7f2b17f65859c0fa930c6dd0adeb55b72eda624d17d7fa303e9a3a&mpshare=1&scene=23&srcid=0807EzdjsfkaspLHIkzvSRqo&sharer_sharetime=1628342344622&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ vector 使用注意事项](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490163&idx=1&sn=f7f93471c40424ee81f551cb09857cf0&chksm=becc3aa389bbb3b5c10d534959034ee007bdf6e1d950840007ec965b8c1783b05225b8d6b704&mpshare=1&scene=23&srcid=0806peb6JQhondEAM3C1LXQ2&sharer_sharetime=1628220844564&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### CI/CD 管道
 
@@ -97,6 +121,19 @@
   * [CI/CD 管道是什么？](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489555&idx=1&sn=087620951001f972b0402a4e562b1bae&chksm=e9c4e972deb3606494a91fb811a63c192e0700532f6a295a270112fcc380d0ac7c66b03a1a0b&mpshare=1&scene=23&srcid=0705BsBZE27LiMYOL0oTL4Py&sharer_sharetime=1625482988380&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## D
+
+### 单点登录
+
+* 标签：开发
+
+* 简介：
+
+  > 单点登录英文全称Single Sign On，简称就是SSO。它的解释是：**在多个应用系统中，只需要登录一次，就可以访问其他相互信任的应用系统。**
+
+* 相关资料：
+
+  * [单点登录（SSO）看这一篇就够了](https://developer.aliyun.com/article/636281)
+  * [基于CAS实现SSO单点登录](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247497261&idx=2&sn=437c7ebc0c80b447770eae9fa848c378&chksm=fd5726abca20afbd1ce821f4e793d0f40fd58c055635da32cca5e686068a86e5551f8229a947&mpshare=1&scene=23&srcid=0812TRWpqhRsog3WtrDOXtzV&sharer_sharetime=1628762570957&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### Docker
 
@@ -138,6 +175,20 @@
 
 * 相关资料：
   * [有赞服务注册与发现架构演进](https://mp.weixin.qq.com/s?__biz=MzAxOTY5MDMxNA==&mid=2455763062&idx=1&sn=8c798bb34be00fa0a0c777c91d75188c&chksm=8c687e53bb1ff7455b094441d866bf2f2f7f36b2858ece0b9dc02b68a7360ee58bf1300cb05f&mpshare=1&scene=23&srcid=0726Whrsh3WZj5zFMDgKE4FW&sharer_sharetime=1627299000896&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
+### DNS（域名系统）
+
+* 标签：计算机网络
+
+* 简介：
+
+  > 域名系统(Domain Name System,DNS)是Internet上解决网上机器命名的一种系统。就像拜访朋友要先知道别人家怎么走一样，Internet上当一台主机要访问另外一台主机时，必须首先获知其地址，TCP/IP中的IP地址是由四段以“.”分开的数字组成(此处以IPv4的地址为例，IPv6的地址同理)，记起来总是不如名字那么方便，所以，就采用了域名系统来管理名字和IP的对应关系。
+  > 虽然因特网上的节点都可以用IP地址唯一标识，并且可以通过IP地址被访问，但即使是将32位的二进制IP地址写成4个0～255的十位数形式，也依然太长、太难记。因此，人们发明了域名(Domain Name)，域名可将一个IP地址关联到一组有意义的字符上去。用户访问一个网站的时候，既可以输入该网站的IP地址，也可以输入其域名，对访问而言，两者是等价的。例如：微软公司的Web服务器的IP地址是207.46.230.229，其对应的域名是www.microsoft.com，不管用户在浏览器中输入的是207.46.230.229还是www.microsoft.com，都可以访问其Web网站。
+  > 一个公司的Web网站可看作是它在网上的门户，而域名就相当于其门牌地址，通常域名都使用该公司的名称或简称。例如上面提到的微软公司的域名，类似的还有：IBM公司的域名是www.ibm.com、Oracle公司的域名是www.oracle.com、Cisco公司的域名是www.cisco.com等。当人们要访问一个公司的Web网站，又不知道其确切域名的时候，也总会首先输入其公司名称作为试探。但是，由一个公司的名称或简称构成的域名，也有可能会被其他公司或个人抢注。甚至还有一些公司或个人恶意抢注了大量由知名公司的名称构成的域名，然后再高价转卖给这些公司，以此牟利。已经有一些域名注册纠纷的仲裁措施，但要从源头上控制这类现象，还需要有一套完整的限制机制，这个还没有。所以，尽早注册由自己名称构成的域名应当是任何一个公司或机构，特别是那些著名企业必须重视的事情。有的公司已经对由自己著名品牌构成的域名进行了保护性注册。
+
+* 相关资料：
+
+  * [36 张图详解 DNS ：网络世界的导航](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163420&idx=1&sn=a48d20a965d48b08c7f66b053f3815f8&chksm=80645a43b713d355eb22da45a5c3574dcb9590eab0f5530d723f16a0772fd8ef9e01822ed087&mpshare=1&scene=23&srcid=0801cNEQ4VaoP6CYYXUfe5bi&sharer_sharetime=1627810941849&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## F
 
@@ -242,7 +293,7 @@
   > 由于浏览器在发布时就确定了JavaScript的版本，加上很多用户还在使用IE6这种古老的浏览器，这就导致你在写JavaScript的时候，要照顾一下老用户，不能一上来就用最新的ES6标准写，否则，老用户的浏览器是无法运行新版本的JavaScript代码的。
   
 * 相关资料：
-  * [淘宝小部件：全新的开放卡片技术！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504324&idx=1&sn=a0e9226d80b63d683a9047ee8e8052fd&chksm=e92aeccbde5d65ddba2cc3216ca369b6617c7f2e8774b952b0c90cbfdedc0a382460622f8641&mpshare=1&scene=23&srcid=0723mKiVHPdfejC4EFZ5Zdur&sharer_sharetime=1627055914835&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)、
+  * [淘宝小部件：全新的开放卡片技术！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504324&idx=1&sn=a0e9226d80b63d683a9047ee8e8052fd&chksm=e92aeccbde5d65ddba2cc3216ca369b6617c7f2e8774b952b0c90cbfdedc0a382460622f8641&mpshare=1&scene=23&srcid=0723mKiVHPdfejC4EFZ5Zdur&sharer_sharetime=1627055914835&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### Jenkins
 
@@ -255,6 +306,20 @@
 * 相关资料：
 
   * [Jenkins详细教程](https://www.jianshu.com/p/5f671aca2b5a)
+
+### Jupyter Notebook
+
+* 标签：
+
+* 简介：
+
+  > Jupyter Notebook是基于网页的用于交互计算的应用程序。其可被应用于全过程计算：开发、文档编写、运行代码和展示结果。
+  >
+  > 简而言之，Jupyter Notebook是以网页的形式打开，可以在网页页面中**直接编写代码**和**运行代码**，代码的**运行结果**也会直接在代码块下显示的程序。如在编程过程中需要编写说明文档，可在同一个页面中直接编写，便于作及时的说明和解释。
+
+* 相关资料：
+  * [Jupyter Notebook介绍、安装及使用教程](https://zhuanlan.zhihu.com/p/33105153)
+  * [JupyterLab 3.0，极其强大的下一代notebook！](https://mp.weixin.qq.com/s?__biz=MzUxNDgwOTUyNw==&mid=2247491277&idx=1&sn=b9bccde79b8039f0507080f80d92adcf&chksm=f9411515ce369c03530e23710e917727af2df2f210d148099d6b90cd36cf48fb482bb504b2cc&mpshare=1&scene=23&srcid=0812qnFd9N3ptZQG4U53qnIx&sharer_sharetime=1628759074283&sharer_shareid=558e067354f584345a474b81b14f3540#rd)
 
 ## K
 
@@ -410,6 +475,9 @@
 
 * 相关资料：
   * [Python静态类型解析工具简介和实践](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504284&idx=1&sn=16873dbfc3424677c632f931d54b6523&chksm=e92aec93de5d65852bf22051f85d8bd3c10475651c60c3ca3f896a802a20ac5b316d5bfe6d0a&mpshare=1&scene=23&srcid=0720Km6v0CGdc9k7nnE6CtCB&sharer_sharetime=1626788603949&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Python库大全](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247508199&idx=4&sn=76f7d604748c6caf0ea3b3861dfe8b1d&chksm=ec5d7f9adb2af68cda1b03386c9903b821ece66adb3cbdfdfe771572d17206b7b2b378c9586a&mpshare=1&scene=23&srcid=08103bRXuEKaOTlfBpacxOoc&sharer_sharetime=1628591395906&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [比 requests 更强大 Python 库，让你的爬虫效率提高一倍！](https://mp.weixin.qq.com/s?__biz=MzA5MTkxNTMzNg==&mid=2650289192&idx=2&sn=06341d00c68d46e56ddd9197095d0fac&chksm=8879810fbf0e0819cc3b6a4a3850da85e8435491214e790fbdb0c3cdd5f2d4d064d92b61c8f4&mpshare=1&scene=23&srcid=08066v7fUKZqhirQriKL6yMx&sharer_sharetime=1628262691990&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [用 Python 轻松实现机器学习](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489615&idx=1&sn=9a2ca6a1b8048088da56dd1b0219ff87&chksm=e9c4e92edeb360387f05fce4fe8642411e98a0071eea4bfff626272b5a896a680147b9cf746b&mpshare=1&scene=23&srcid=0804xTGDelYLt52ZjRdEAAqZ&sharer_sharetime=1628068979986&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * 主观评价：
   * 无论你是什么专业，学点python总没错
 
@@ -464,6 +532,8 @@
   * [SpringBoot接入支付宝](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651953745&idx=1&sn=84f677601cfc7ce6b26505e8f065f1d1&chksm=8d0ff51fba787c09104b821717259330df081b20a53372eca685bf015ea0cfc7ba27d8694dea&mpshare=1&scene=23&srcid=0721Hhmv7wAJ3lQNuBoJ3Xfh&sharer_sharetime=1626860295766&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [40 个 Spring Boot 常用注解](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247519940&idx=1&sn=9b2c4f4bd6ec7c3bdb048b31d1a06dc9&chksm=ce0e3947f979b0512ae2c4e48c5561e7ba66be6ab7a5c15a574a99e28fbceeba656ed8f00465&mpshare=1&scene=23&srcid=0726LxDfigSgZdGwlQQssNav&sharer_sharetime=1627275588910&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [10000 字讲清楚 Spring Boot 注解原理](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247520032&idx=1&sn=d37533cec80f39e41e2e4d4187441150&chksm=ce0e38a3f979b1b59541ac41bd81b4102dbe1786e7da350c97e9effc49a43a70c6680059ceec&mpshare=1&scene=23&srcid=07307yeiW9OJApCBXmVfEbYU&sharer_sharetime=1627627572391&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Springboot 配置文件、隐私数据脱敏的最佳实践（原理+源码）](https://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247497218&idx=2&sn=1c65b15a49d8dc142358f8ed51c29646&chksm=fd572684ca20af9210060079ba3a8f632f7aa1c7838904985424c0aa9f2b95574fac8fff3121&mpshare=1&scene=23&srcid=0810OZ0ktKUiODgDyrMu1Yfg&sharer_sharetime=1628591439301&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Spring Boot参数校验以及分组校验的使用](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504551&idx=1&sn=82f6899c6db88af1de7f15b6442bb864&chksm=e92aefa8de5d66bea87217a9399450c073bd7944e5833bc0b6955f3c41b05e106ebaa14a57d4&mpshare=1&scene=23&srcid=0810i06nVEsbqVFV5RNOO3lt&sharer_sharetime=1628591153618&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### SpringBatch
 
@@ -513,6 +583,8 @@
 
   * [数据库是什么 | Oracle 中国](https://www.oracle.com/cn/database/what-is-database/)
   * [分库分表之后，id 主键如何处理？ ](https://mp.weixin.qq.com/s?__biz=MzAxOTQxOTc5NQ==&mid=2650501445&idx=1&sn=67ad7b6e2669c7cda793a8c5f5372d0c&chksm=83c896b9b4bf1fafe49559f9de42220854e4858867cc0f1099811a52c1b1285d2a7c87ebdd66&mpshare=1&scene=23&srcid=0723dopTdDxYLpSoSzQS23l4&sharer_sharetime=1627055896721&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [索引为什么能提高查询性能](https://mp.weixin.qq.com/s?__biz=Mzg3NzU3MTY3MA==&mid=2247483999&idx=1&sn=8216cddc0dadf9b7728cd58be1bc11c4&chksm=cf21b966f856307076d410360d9a39064323adc47b276e0b33ef874709a379b4c4323b47687f&mpshare=1&scene=23&srcid=0810OuNUvoEK9xOk5hxUfM7R&sharer_sharetime=1628591213962&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [一键生成数据库文档，堪称数据库界的Swagger](https://mp.weixin.qq.com/s?__biz=MzIzMjg5MTU1MA==&mid=2247494995&idx=1&sn=53859275683d84ac63708947e30cad12&chksm=e88f58a2dff8d1b4072fec9746a3cddbf22ed77606e65b78804ca86579a6af3552a2e34198a7&mpshare=1&scene=23&srcid=08096DmiurVI97r2leC5Ilrg&sharer_sharetime=1628503941493&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### SQL(结构化查询语言)
 
@@ -701,8 +773,20 @@
 * 相关文章：
   * [阿里云肖力：跳过量变过程的安全质变](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504031&idx=1&sn=55c1f58c28136a1157ef63df2734bb68&chksm=e92aed90de5d6486e842c03be46053b3221bdf515e365b6f5ea066e342346e6be772d14b0728&mpshare=1&scene=23&srcid=0705DUlHxvmOdSxKRzVUSIR1&sharer_sharetime=1625482829211&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [什么是云原生？这回终于有人讲明白了](https://zhuanlan.zhihu.com/p/150190166)
+  * [高效研发运维体系构建的流程和方法论](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504595&idx=1&sn=fa8dfcbdca10b53de1e4fb646249e38a&chksm=e92aefdcde5d66ca40509cb955503783d5a241ff50e95c28727426ca8e3900f27da8513e9588&mpshare=1&scene=23&srcid=08111ieGgqkDjnbhb0QYah2x&sharer_sharetime=1628700660690&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## Z
+
+### 正则表达式
+
+* 简介：
+
+  > 正则表达式，又称规则表达式。（英语：Regular Expression，在代码中常简写为regex、regexp或RE），计算机科学的一个概念。正则表达式通常被用来检索、替换那些符合某个模式(规则)的文本。
+  > 许多程序设计语言都支持利用正则表达式进行字符串操作。例如，在Perl中就内建了一个功能强大的正则表达式引擎。正则表达式这个概念最初是由Unix中的工具软件（例如sed和grep）普及开的。正则表达式通常缩写成“regex”，单数有regexp、regex，复数有regexps、regexes、regexen。
+
+* 相关资料：
+
+  * [站在正则表达式背后的…… ](https://mp.weixin.qq.com/s?__biz=MzIzMjg5MTU1MA==&mid=2247494667&idx=2&sn=9371b183c4b501a191c98fa1e36e1d90&chksm=e88f59fadff8d0eceee7b63a140240380aaed8b93687fa3f951e16e34d81899a3eb85ab9792d&mpshare=1&scene=23&srcid=0806ejxhVIIhGgfmnektBEay&sharer_sharetime=1628220813914&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### 智能指针
 
@@ -713,6 +797,10 @@
 ## 其他
 
 * [阿里仿真灰度变更测试简介](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504384&idx=1&sn=2d9f415e0133ae81f4f8e8adcf7a9390&chksm=e92aef0fde5d6619620e8e047aec34586c56d5dc79a7bb3317fa8105bd9af7ea17d2406b2da8&mpshare=1&scene=23&srcid=0729YAOhTpTo8nGkVjGptafE&sharer_sharetime=1627539520790&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
-
-
-
+* [404 为什么是 404？](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247520106&idx=2&sn=fb34eb16e48b3fe3311fd9c788689ea0&chksm=ce0e38e9f979b1fff15b481bf9e17aa7d3d79b517b395624c596e987dedb4316c84d76fd8498&mpshare=1&scene=23&srcid=0802ZJmhsPIIfPpicGQPGHT5&sharer_sharetime=1627835011946&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [深入理解数据结构和算法](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247520106&idx=2&sn=fb34eb16e48b3fe3311fd9c788689ea0&chksm=ce0e38e9f979b1fff15b481bf9e17aa7d3d79b517b395624c596e987dedb4316c84d76fd8498&mpshare=1&scene=23&srcid=0802ZJmhsPIIfPpicGQPGHT5&sharer_sharetime=1627835011946&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [端侧如何实现自动容灾 ](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487621&idx=1&sn=8af6d3ebc975596d8302c5b6639e9de2&chksm=fd54c494ca234d826fca996c1577fb5000e1e4f00cecd7f73fde120362d16ac7b05ca6d272e1&mpshare=1&scene=23&srcid=08124EBPxmsRxXINVjn4kVrm&sharer_sharetime=1628762476560&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [如何实现卖家增长任务的AB实验](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487609&idx=1&sn=bda6b6e2530edda3f249794324a7afa1&chksm=fd54c468ca234d7ecaa3442b1d322bb2ed696381759d56b8a4d81b0fd855374ecc328eb4356d&mpshare=1&scene=23&srcid=08103zdc9ea81xpWofgzyP93&sharer_sharetime=1628591334340&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [不要总是不停的学技术 ](https://mp.weixin.qq.com/s?__biz=MzIxMjE1MzU4OA==&mid=2648926322&idx=1&sn=90648aa92e45a4ef8a5d8f1502c58b45&chksm=8f5dade9b82a24ffccf3d087c35581115b3760ce8303d748f6092f685492a42ea0f35015d452&mpshare=1&scene=23&srcid=08102oA7mW5XbTqHafxjK4G3&sharer_sharetime=1628591187763&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [一文读懂阿里云直播技术是如何实现的](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504540&idx=1&sn=75db4bb4b1863537056f04b177eedda3&chksm=e92aef93de5d6685af0169bd7f8ef61617fe11c5bd444e58a6520b48159580b330f962548e6d&mpshare=1&scene=23&srcid=0809juCt3FYt8QDPxSdUAflA&sharer_sharetime=1628503891828&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [试着读懂你的心——闲鱼聊天小助手的探索之路](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487584&idx=1&sn=b5af1dad1504cbbf54fc8bd03676eb29&chksm=fd54c471ca234d6767b4f38c48dcb48f8971d4db87ebe62fc6e157162cd367503e8513d703ca&mpshare=1&scene=23&srcid=0804TrTQjfKaAzrOYyUibil7&sharer_sharetime=1628069023544&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
