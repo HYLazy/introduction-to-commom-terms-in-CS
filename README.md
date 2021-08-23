@@ -106,6 +106,13 @@
   * [C/C++ 二进制读写 png 文件](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490165&idx=1&sn=8e53a7eb3f68d5e6c73f14b0270eed38&chksm=becc3aa589bbb3b31858ab7f2b17f65859c0fa930c6dd0adeb55b72eda624d17d7fa303e9a3a&mpshare=1&scene=23&srcid=0807EzdjsfkaspLHIkzvSRqo&sharer_sharetime=1628342344622&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [shared_ptr 是线程安全的吗？](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163446&idx=1&sn=06d8aee4d2e5f1d70f592d8230695dc3&chksm=80645a69b713d37f787f5a177cfb6786803de6392d5a15e5815514f2e313916b0d9ea1500038&mpshare=1&scene=23&srcid=08046HUzdWqoLPpIufqxEPKv&sharer_sharetime=1628068933216&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [C++ vector 使用注意事项](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490163&idx=1&sn=f7f93471c40424ee81f551cb09857cf0&chksm=becc3aa389bbb3b5c10d534959034ee007bdf6e1d950840007ec965b8c1783b05225b8d6b704&mpshare=1&scene=23&srcid=0806peb6JQhondEAM3C1LXQ2&sharer_sharetime=1628220844564&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ 代码简化之道](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163756&idx=1&sn=001c0829f32dbe5108e196a22892c953&chksm=80645d33b713d425db465faaa88d90bdb39cba9ce6ef475ad52f622c4c35214a8ec56cf33e0a&mpshare=1&scene=23&srcid=0821zD8SaXAoBCs0Uidq6LrM&sharer_sharetime=1629536586382&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++代码简化之道 (2)：消除非必要的指针](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163763&idx=2&sn=bc95612ba56dd17f9f081c78c0686322&chksm=80645d2cb713d43a9a277fd50d59fb294036dd6d82c8e30cd4a50c177d76dc56d66c8bd6a564&mpshare=1&scene=23&srcid=08234LPjxhIxFtSGVWFmAQ7b&sharer_sharetime=1629697967992&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ 及标准库中的那些大坑](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490177&idx=1&sn=aa01fee5a98688dd8e06d19a8033371f&chksm=becc3ad189bbb3c797289343b9844dbbbda007d70f1a33ce70f21fbb36308dc2c503a5d57135&mpshare=1&scene=23&srcid=0821PdHYAZzHG7QckRtMrkvM&sharer_sharetime=1629537386764&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [2021最稳C/C++学习路线](http://mp.weixin.qq.com/s?__biz=MzI3ODQ3OTczMw==&mid=2247491166&idx=1&sn=6aa85582646fbd0b6c7f7be652fdf024&chksm=eb570844dc20815210f94d3b25df22a868d1ff14371d9ddf8d494dab0448ba2559fb274f94b9&mpshare=1&scene=23&srcid=0821RBvgRovZULgJrIAzhvbe&sharer_sharetime=1629537367811&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Linux C++ 服务器端这条线怎么走？](http://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247496395&idx=1&sn=ccaadf967e5ee19d3daab7e1ec7ca498&chksm=9f8a97f5a8fd1ee348fc96919a3c7407ec5ed77d65e8ac6bcf507d1af4433dd3b890ff605741&mpshare=1&scene=23&srcid=0821Rxyr34ySmDCsue8VoG4q&sharer_sharetime=1629536614293&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ 文件操作看这篇文章就够了](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490176&idx=1&sn=29a30f769b1cad66d15c5e66146da4db&chksm=becc3ad089bbb3c69a3b28b832ffa3076e59bee43f0f1b1cee54a971627774c9d87adacacd2d&mpshare=1&scene=23&srcid=0819HdUVhsYN3yTnbSklgsHG&sharer_sharetime=1629352311087&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++中引用和匿名对象的理解和本质剖析](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490174&idx=1&sn=38271c1f56a48c4ffb519c2dd7774d8b&chksm=becc3aae89bbb3b8a00be34439494696ab8351c5fff91ad68808b3d0f827c94d51044aa9b57a&mpshare=1&scene=23&srcid=0817JVeaWoi3Urltkg3xdLbq&sharer_sharetime=1629190460799&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### CI/CD 管道
 
@@ -218,6 +225,21 @@
 
 ## G
 
+### Git
+
+* 标签：版本控制、使用工具
+
+* 简介：
+
+  >Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
+  >
+  >Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。
+  >
+  >Git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分布式版本库的方式，不必服务器端软件支持。
+
+* 相关资料：
+  * [一文搞定Git](http://mp.weixin.qq.com/s?__biz=MzU4Mzc3MzM3NA==&mid=2247485351&idx=1&sn=55cb5950b206dd7330f8e28b8dc4b20d&chksm=fda2ba76cad53360e504890b834ccce9ed70875bc3a5cd7e72fc4e1a94b0f3949a1cd6baca14&mpshare=1&scene=23&srcid=08191gpVdsU4NQXnHLIBAclO&sharer_sharetime=1629352413971&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ### Github
 
 * 标签：实用网站
@@ -237,6 +259,17 @@
   * [重温设计模式之 Factory](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504042&idx=1&sn=d6ce7c7ca42807ae9661523e750b9253&chksm=e92aeda5de5d64b349c18cebfad1f25974fe2836cadabea062063a6a4d1604e952a9725e1586&mpshare=1&scene=23&srcid=0707SG2t06QUMcIVHuDNPydj&sharer_sharetime=1625658013529&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## H
+
+### 汇编语言
+
+* 标签：低级语言
+
+* 简介：
+
+  > 汇编语言， 即第二代计算机语言，用一些容易理解和记忆的字母，单词来代替一个特定的指令，比如：用“ADD”代表数字逻辑上的加减，“ MOV”代表数据传递等等，通过这种方法，人们很容易去阅读已经完成的程序或者理解程序正在执行的功能，对现有程序的bug修复以及运营维护都变得更加简单方便。但计算机的硬件不认识字母符号，这时候就需要一个专门的程序把这些字符变成计算机能够识别的二进制数。因为汇编语言只是将机器语言做了简单编译，所以并没有根本上解决机器语言的特定性，所以汇编语言和机器自身的编程环境息息相关，推广和移植很难，但是还是保持了机器语言优秀的执行效率，因为他的可阅读性和简便性，汇编语言到现在依然是常用的编程语言之一。汇编语言不像其他大多数的程序设计语言一样被广泛用于程序设计。在今天的实际应用中，它通常被应用在底层，硬件操作和高要求的程序优化的场合。驱动程序、嵌入式操作系统和实时运行程序都需要汇编语言。
+
+* 相关资料：
+  * [史上最通俗易懂汇编文章！](http://mp.weixin.qq.com/s?__biz=Mzg4NjUxMzg5MA==&mid=2247494448&idx=2&sn=9e126e013c06ea5b5c30ea1d3530bbc0&chksm=cf9a22bdf8edabab644a8f6ed519c9cd672c96b8c16e1bad06719e4b3928671f90b57ef9d8ea&mpshare=1&scene=23&srcid=0817fKzQOHnmGk1JKOA1Henf&sharer_sharetime=1629194029296&sharer_shareid=95e6b0ec8139f8fdad4d490f3636249e#rd)
 
 ## I
 
@@ -273,6 +306,8 @@
   * [什么是 Java？](https://www.java.com/zh-CN/about/whatis_java.jsp)
   * [如何设计一个 Feed 流系统 ](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651862415&idx=1&sn=fef76b99f7be17b40dc96218cabd4b70&chksm=804970c6b73ef9d082bf2298b9c369bdea29c4219888ee087a34b1746b1ef7dcf06383b19f2c&mpshare=1&scene=23&srcid=0722ierT8yEYzOTFDD0gV2dS&sharer_sharetime=1626929569239&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [Java必会的工具库，让你的代码量减少90%](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651862390&idx=1&sn=ce1d103c27ebc360c313474ffeb3afc8&chksm=8049703fb73ef929f0ec843f940c7cd7557d634fd83526397ed7bc5b84e9e124aad26827e76b&mpshare=1&scene=23&srcid=0719kW9tPNTQMWpdv7CadqdW&sharer_sharetime=1626624782545&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Java泛型](http://mp.weixin.qq.com/s?__biz=MzkwOTAyMTY2NA==&mid=2247484651&idx=1&sn=aca3e0f533fd63d52830e4e5754b966b&chksm=c0c05c64f7b7d57267e768c259a17bccb08ec76596855c279d91d15c2b3f022ac9fce862de59&mpshare=1&scene=23&srcid=0823jvt9HwHCeQclWosa880x&sharer_sharetime=1629698006895&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [你真的会写for循环吗？来看看这些常见的for循环优化方式](http://mp.weixin.qq.com/s?__biz=MzAxNDMwMTMwMw==&mid=2247528012&idx=2&sn=2d80b5805184641b87f6407be21f3e86&chksm=9b974f54ace0c642206abba34e102762e7a85c5ef00c5369d13415c6ea43cb87e7cdbb26e050&mpshare=1&scene=23&srcid=08212w2yvt0vz97UboCgEm06&sharer_sharetime=1629537404998&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### JavaScript
 
@@ -349,6 +384,7 @@
 
 * 相关资料：
   * [用 Python 轻松实现机器学习](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489615&idx=1&sn=9a2ca6a1b8048088da56dd1b0219ff87&chksm=e9c4e92edeb360387f05fce4fe8642411e98a0071eea4bfff626272b5a896a680147b9cf746b&mpshare=1&scene=23&srcid=0804xTGDelYLt52ZjRdEAAqZ&sharer_sharetime=1628068979986&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [用机器学习预测 bilibili 股价走势](http://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653577937&idx=1&sn=8a18b3bd844bd620b8c34c872866668f&chksm=806e4c6cb719c57a968bd4eafd3022ee3d481531ed90bcbfa5a8d40e634194a18c828c6c232f&mpshare=1&scene=23&srcid=08214Vig57f2Ooj3a35HPsPp&sharer_sharetime=1629536781363&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## K
 
@@ -507,6 +543,7 @@
   * [Python库大全](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247508199&idx=4&sn=76f7d604748c6caf0ea3b3861dfe8b1d&chksm=ec5d7f9adb2af68cda1b03386c9903b821ece66adb3cbdfdfe771572d17206b7b2b378c9586a&mpshare=1&scene=23&srcid=08103bRXuEKaOTlfBpacxOoc&sharer_sharetime=1628591395906&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [比 requests 更强大 Python 库，让你的爬虫效率提高一倍！](https://mp.weixin.qq.com/s?__biz=MzA5MTkxNTMzNg==&mid=2650289192&idx=2&sn=06341d00c68d46e56ddd9197095d0fac&chksm=8879810fbf0e0819cc3b6a4a3850da85e8435491214e790fbdb0c3cdd5f2d4d064d92b61c8f4&mpshare=1&scene=23&srcid=08066v7fUKZqhirQriKL6yMx&sharer_sharetime=1628262691990&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [用 Python 轻松实现机器学习](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489615&idx=1&sn=9a2ca6a1b8048088da56dd1b0219ff87&chksm=e9c4e92edeb360387f05fce4fe8642411e98a0071eea4bfff626272b5a896a680147b9cf746b&mpshare=1&scene=23&srcid=0804xTGDelYLt52ZjRdEAAqZ&sharer_sharetime=1628068979986&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [用 Python 中的蒙特卡洛模拟预测股票收益](http://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653577909&idx=1&sn=b824c3077a1eb80e1f2000b0ec127087&chksm=806e4c08b719c51e964e8b488068a1a8ae2097807a97a2c35ae0d46685598f064ebcc5d5aa22&mpshare=1&scene=23&srcid=0821fr9IqWeYUOyM1x08MxDx&sharer_sharetime=1629536731960&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * 主观评价：
   * 无论你是什么专业，学点python总没错
 
@@ -704,6 +741,20 @@
   * [锁（计算机科学）](https://zh.wikipedia.org/wiki/%E9%94%81_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))
   * [深入理解 RCU 核心原理](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163409&idx=1&sn=bed98c68ebeb7ffdfb9c91febd0f5713&chksm=80645a4eb713d3580db29964e90026e2390ef5e2e77a0f2e9164433e8008bb0d3440bff0c972&mpshare=1&scene=23&srcid=07295hFlaE3PJN9nyuowhrq8&sharer_sharetime=1627539604103&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
+### 深度学习
+
+* 标签：人工智能，机器学习
+
+* 简介：
+
+  > 深度学习(DL, Deep Learning)是机器学习(ML, Machine Learning)领域中一个新的研究方向，它被引入机器学习使其更接近于最初的目标——人工智能(AI, Artificial Intelligence)。 
+  > 深度学习是学习样本数据的内在规律和表示层次，这些学习过程中获得的信息对诸如文字，图像和声音等数据的解释有很大的帮助。它的最终目标是让机器能够像人一样具有分析学习能力，能够识别文字、图像和声音等数据。 深度学习是一个复杂的机器学习算法，在语音和图像识别方面取得的效果，远远超过先前相关技术。 
+  > 深度学习在搜索技术，数据挖掘，机器学习，机器翻译，自然语言处理，多媒体学习，语音，推荐和个性化技术，以及其他相关领域都取得了很多成果。深度学习使机器模仿视听和思考等人类的活动，解决了很多复杂的模式识别难题，使得人工智能相关技术取得了很大进步。
+
+* 相关资料：
+  * [一文读懂深度学习](https://easyai.tech/ai-definition/deep-learning/)
+  * [PyTorch 框架的深度学习优化算法集](http://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653577902&idx=1&sn=aa255dc5bf4ad54602969cf6ee787b9f&chksm=806e4c13b719c50563ae6c2140570ca29c2edea023fcfe0555d47d6bfe455b8d25cfb3581b27&mpshare=1&scene=23&srcid=0819jOOodLYAbAKzLUQHAGzu&sharer_sharetime=1629352447955&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ## T
 
 ### TEX
@@ -806,6 +857,27 @@
 
 ## Z
 
+### 字符集
+
+* 标签：基础知识
+
+* 简介：
+
+  > **字符集（Charset）**：是一个系统支持的所有抽象字符的集合。字符是各种文字和符号的总称，包括各国家文字、标点符号、图形符号、数字等。
+  >
+  > 常见字符集名称：ASCII字符集、GB2312字符集、BIG5字符集、GB18030字符集、Unicode字符集等。计算机要准确的处理各种字符集文字，需要进行字符编码，以便计算机能够识别和存储各种文字。
+
+### 字符编码
+
+* 标签：基础知识
+
+* 简介：
+
+  > **字符编码（Character Encoding）**：是一套法则，使用该法则能够对自然语言的字符的一个集合（如字母表或音节表），与其他东西的一个集合（如号码或电脉冲）进行配对。即在符号集合与数字系统之间建立对应关系，它是信息处理的一项基本技术。通常人们用符号集合（一般情况下就是文字）来表达信息。而以计算机为基础的信息处理系统则是利用元件（硬件）不同状态的组合来存储和处理信息的。元件不同状态的组合能代表数字系统的数字，因此字符编码就是将符号转换为计算机可以接受的数字系统的数，称为数字代码
+
+* 相关资料：
+  * [【漫画】什么是字符集和编码？](http://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247484848&idx=1&sn=ad7f134c40574ec1214df28b078c88e1&chksm=ec6e7ce8db19f5fec5ad53f982d0ad01c0a948818f13d9f42c3cfb8ae63489421ce92e433ba1&mpshare=1&scene=23&srcid=0821LFB7hNzGBFo0Lu45nqcE&sharer_sharetime=1629536648210&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
 ### 正则表达式
 
 * 简介：
@@ -832,8 +904,13 @@
 * [如何实现卖家增长任务的AB实验](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487609&idx=1&sn=bda6b6e2530edda3f249794324a7afa1&chksm=fd54c468ca234d7ecaa3442b1d322bb2ed696381759d56b8a4d81b0fd855374ecc328eb4356d&mpshare=1&scene=23&srcid=08103zdc9ea81xpWofgzyP93&sharer_sharetime=1628591334340&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * [不要总是不停的学技术 ](https://mp.weixin.qq.com/s?__biz=MzIxMjE1MzU4OA==&mid=2648926322&idx=1&sn=90648aa92e45a4ef8a5d8f1502c58b45&chksm=8f5dade9b82a24ffccf3d087c35581115b3760ce8303d748f6092f685492a42ea0f35015d452&mpshare=1&scene=23&srcid=08102oA7mW5XbTqHafxjK4G3&sharer_sharetime=1628591187763&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * [一文读懂阿里云直播技术是如何实现的](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504540&idx=1&sn=75db4bb4b1863537056f04b177eedda3&chksm=e92aef93de5d6685af0169bd7f8ef61617fe11c5bd444e58a6520b48159580b330f962548e6d&mpshare=1&scene=23&srcid=0809juCt3FYt8QDPxSdUAflA&sharer_sharetime=1628503891828&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
-* [试着读懂你的心——闲鱼聊天小助手的探索之路](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487584&idx=1&sn=b5af1dad1504cbbf54fc8bd03676eb29&chksm=fd54c471ca234d6767b4f38c48dcb48f8971d4db87ebe62fc6e157162cd367503e8513d703ca&mpshare=1&scene=23&srcid=0804TrTQjfKaAzrOYyUibil7&sharer_sharetime=1628069023544&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
-=======
+
 * [试着读懂你的心——闲鱼聊天小助手的探索之路](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487584&idx=1&sn=b5af1dad1504cbbf54fc8bd03676eb29&chksm=fd54c471ca234d6767b4f38c48dcb48f8971d4db87ebe62fc6e157162cd367503e8513d703ca&mpshare=1&scene=23&srcid=0804TrTQjfKaAzrOYyUibil7&sharer_sharetime=1628069023544&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
-
+* [把手教你使用Gitee+PicGO搭建高效图床](http://mp.weixin.qq.com/s?__biz=Mzg3MjU4NzI2NA==&mid=2247499658&idx=1&sn=a583a9dab5fc43191526d34e85e868c2&chksm=ceefb6e5f9983ff3f41cd7eb2cbbcd1133fe4dc923c4e101645a2df729c741267378c5572786&mpshare=1&scene=23&srcid=0822kJvjVUDPmZvGygbTejct&sharer_sharetime=1629606386073&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [如何设计可靠的灰度方案](http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504686&idx=1&sn=ef2880c0b33f30dfce5992650aa21aae&chksm=e92aee21de5d6737bd8c922672af22c4c29282a137cfe58d1b64431bb32590c1e1888df74cf0&mpshare=1&scene=23&srcid=0821cJ26eTxAv1vh04FJbyYv&sharer_sharetime=1629536837519&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [聊聊互联网营销的第4门功课](http://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487670&idx=1&sn=7310bd59858d8c7e0c997a4227ac4c97&chksm=fd54c4a7ca234db1329d3e1ee2acc59698f7c7710d96cb427e8aee89091b7353fb9af59967d3&mpshare=1&scene=23&srcid=0819EHuQyKFZMs5RyU0VMkV4&sharer_sharetime=1629352351739&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [该不该问？](http://mp.weixin.qq.com/s?__biz=MzIxMjE1MzU4OA==&mid=2648926783&idx=1&sn=33720be5220bd5ca5767dbc0ccfc466e&chksm=8f5dafa4b82a26b224d5c0ee6c72c40aba93fdc60b74c9ec0143a62ab6757d735a4da8e9165a&mpshare=1&scene=23&srcid=0820WKrX9psS4iqY5D1iB2c9&sharer_sharetime=1629536819998&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [全网最全的 postman 工具使用教程](http://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247497452&idx=1&sn=654ee7da72125ac529599b1219d80a67&chksm=fd57266aca20af7c82a3d36bb7439fd5303076441fe9a25f24878acdbcf326746e33be2982e7&mpshare=1&scene=23&srcid=0819ewhOpZ6SduVEIbWAjIlI&sharer_sharetime=1629352332744&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [提升代码质量的方法：领域模型、设计原则、设计模式](http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504673&idx=1&sn=cf4c381b036360c01c9de63a85ee5024&chksm=e92aee2ede5d67380cdb6819b357b574d0e788c2288378a10ffad28795fea3ab8fe06fb6f0ec&mpshare=1&scene=23&srcid=0819rcA7dA25Lhi3yHhzF49s&sharer_sharetime=1629352294080&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [深入理解零拷贝技术](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163755&idx=1&sn=db585c14501e826da52c39f71aa73ada&chksm=80645d34b713d4226725fff626ddc7d2ce2a5086cfb7e2c5393ecf2dfca1a3d44a70a12b81e4&mpshare=1&scene=23&srcid=0819DsWqqkLh3dphbUBNQXTo&sharer_sharetime=1629352277039&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
