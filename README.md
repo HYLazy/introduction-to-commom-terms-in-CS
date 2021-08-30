@@ -74,6 +74,7 @@
 * 相关资料：
 
   * [C语言中的断言](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490164&idx=1&sn=9425ade848ca27e2b003192caeb5dc2a&chksm=becc3aa489bbb3b2e6c5af682f0bf44faff953379ed43c4dd5bd6d3a792f4353890bd9b69787&mpshare=1&scene=23&srcid=0806tscBURI6nu7kftUSeV9h&sharer_sharetime=1628262375167&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C语言在ARM中函数调用时，栈是如何变化的？](http://mp.weixin.qq.com/s?__biz=MzIxMjE1MzU4OA==&mid=2648926920&idx=1&sn=4ac091e277c784c601d3468d2c9d1ebf&chksm=8f5daf53b82a2645395a2b9010f02fd02024f11258725bea7f89e362c5b583d8590d1aa5feea&mpshare=1&scene=23&srcid=0826WqCPk3DsL84WIy4OBzCs&sharer_sharetime=1629974221110&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### C++语言
 
@@ -113,6 +114,11 @@
   * [Linux C++ 服务器端这条线怎么走？](http://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247496395&idx=1&sn=ccaadf967e5ee19d3daab7e1ec7ca498&chksm=9f8a97f5a8fd1ee348fc96919a3c7407ec5ed77d65e8ac6bcf507d1af4433dd3b890ff605741&mpshare=1&scene=23&srcid=0821Rxyr34ySmDCsue8VoG4q&sharer_sharetime=1629536614293&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [C++ 文件操作看这篇文章就够了](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490176&idx=1&sn=29a30f769b1cad66d15c5e66146da4db&chksm=becc3ad089bbb3c69a3b28b832ffa3076e59bee43f0f1b1cee54a971627774c9d87adacacd2d&mpshare=1&scene=23&srcid=0819HdUVhsYN3yTnbSklgsHG&sharer_sharetime=1629352311087&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [C++中引用和匿名对象的理解和本质剖析](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490174&idx=1&sn=38271c1f56a48c4ffb519c2dd7774d8b&chksm=becc3aae89bbb3b8a00be34439494696ab8351c5fff91ad68808b3d0f827c94d51044aa9b57a&mpshare=1&scene=23&srcid=0817JVeaWoi3Urltkg3xdLbq&sharer_sharetime=1629190460799&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Linux C++ 服务器端开发路在何方？](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490232&idx=1&sn=6117aaa4112eba03b932ba46b7c4d291&chksm=becc3ae889bbb3fead77cdd072a55c4f4b56650cf6fc4d6f13dad3f30a2809fc2617e42cd48b&mpshare=1&scene=23&srcid=0829asn2iAcrLd3k8QZS1fk0&sharer_sharetime=1630235847074&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ std::function详解与实战](http://mp.weixin.qq.com/s?__biz=MzIzMjg5MTU1MA==&mid=2247496020&idx=2&sn=72c7d3ab1e3d19dba2f4cdc82d28ce15&chksm=e88f44a5dff8cdb326d33555d18ee4ff185d078bcaeb7ca8e7ab19293c7cf04a340ecee21fa7&mpshare=1&scene=23&srcid=0829WrPKZS5zFkwQHOqaSMWb&sharer_sharetime=1630235784076&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [关于堆栈的讲解](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490228&idx=1&sn=a84407db8e18a7cc3d42c36e6022520b&chksm=becc3ae489bbb3f2d7c9dc2da13ea3b69e4691f6dc4e4616d9bcf1a3eeef90e2698f1069233e&mpshare=1&scene=23&srcid=0827TjDb5r89tkMAhljpOUqK&sharer_sharetime=1630070360477&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [编写可移植 C/C++ 程序的一些要点](http://mp.weixin.qq.com/s?__biz=MzA4MjI3NzQ1Nw==&mid=2247496514&idx=1&sn=4c9ebf35163ad044c44b77d921f6ee63&chksm=9f8a967ca8fd1f6ae99bb354b8d1884418c972137c07df90bfa786630035af5c61eba18ac467&mpshare=1&scene=23&srcid=0826KCiPET6gCxaDaCdlfqCc&sharer_sharetime=1629974238825&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [C++ 11 新特性之容器相关特性](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490186&idx=1&sn=6e02771694a1523087173c6fb5a1da0d&chksm=becc3ada89bbb3cc35ddb2a0f5bf2681145e44df1039b67e87afe7e70ecdbf02e236fc21be20&mpshare=1&scene=23&srcid=0825gfFz2Z1xxnOqoAlaT3RZ&sharer_sharetime=1629856036860&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### CI/CD 管道
 
@@ -308,6 +314,9 @@
   * [Java必会的工具库，让你的代码量减少90%](https://mp.weixin.qq.com/s?__biz=MzAxMjY5NDU2Ng==&mid=2651862390&idx=1&sn=ce1d103c27ebc360c313474ffeb3afc8&chksm=8049703fb73ef929f0ec843f940c7cd7557d634fd83526397ed7bc5b84e9e124aad26827e76b&mpshare=1&scene=23&srcid=0719kW9tPNTQMWpdv7CadqdW&sharer_sharetime=1626624782545&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [Java泛型](http://mp.weixin.qq.com/s?__biz=MzkwOTAyMTY2NA==&mid=2247484651&idx=1&sn=aca3e0f533fd63d52830e4e5754b966b&chksm=c0c05c64f7b7d57267e768c259a17bccb08ec76596855c279d91d15c2b3f022ac9fce862de59&mpshare=1&scene=23&srcid=0823jvt9HwHCeQclWosa880x&sharer_sharetime=1629698006895&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [你真的会写for循环吗？来看看这些常见的for循环优化方式](http://mp.weixin.qq.com/s?__biz=MzAxNDMwMTMwMw==&mid=2247528012&idx=2&sn=2d80b5805184641b87f6407be21f3e86&chksm=9b974f54ace0c642206abba34e102762e7a85c5ef00c5369d13415c6ea43cb87e7cdbb26e050&mpshare=1&scene=23&srcid=08212w2yvt0vz97UboCgEm06&sharer_sharetime=1629537404998&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [websocket+netty实时视频弹幕交互功能](http://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247497688&idx=1&sn=ddba4a796bc157cdd791e9e858e39860&chksm=fd57275eca20ae48278423bc0af84c21a0af57033d94653a2c26299638fe4fd6ef45ce3f481a&mpshare=1&scene=23&srcid=0829frFWD50D1ZJrBQGZXCku&sharer_sharetime=1630235739542&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Java 命名规范](http://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247522150&idx=2&sn=789a90b20e46105ab3ab344e9b6f96e7&chksm=ce0e20e5f979a9f359efeec62cb1a3f321f86d22f769b5cc673f00c439d000b6f1733526b42e&mpshare=1&scene=23&srcid=0827Gcp5OAugtUrLbK6pgFxR&sharer_sharetime=1630062328771&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [范型](http://mp.weixin.qq.com/s?__biz=MzkwOTAyMTY2NA==&mid=2247484651&idx=1&sn=aca3e0f533fd63d52830e4e5754b966b&chksm=c0c05c64f7b7d57267e768c259a17bccb08ec76596855c279d91d15c2b3f022ac9fce862de59&mpshare=1&scene=23&srcid=0823jvt9HwHCeQclWosa880x&sharer_sharetime=1629698006895&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### JavaScript
 
@@ -410,6 +419,9 @@
   * [如何在 CentOS、RHEL、Rocky Linux 最小化安装中设置互联网 | Linux 中国](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489585&idx=1&sn=23087fc1aa7c75491cee11d32279f36b&chksm=e9c4e950deb36046e1f1186a4e8bab943bfc18372b669aeeed3bf9cd1c02facff36a893f4ec0&mpshare=1&scene=23&srcid=0720MfnDOt5sERdVjpIJ22aV&sharer_sharetime=1626788587910&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [其实 Linux IO 模型没那么难 ](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453152913&idx=2&sn=ec8b967d37e21ca5dccbee274409cc48&chksm=8cfd0612bb8a8f049fc875a0c4abd41ac1530e3b796de6b6853700550d6735370b9d56fc0b70&mpshare=1&scene=23&srcid=08026bXYFM7kS0f5S7oz1ATk&sharer_sharetime=1627876869863&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
   * [扒开 Linux 中断的底裤之 workqueue ](https://mp.weixin.qq.com/s?__biz=MzIxMjE1MzU4OA==&mid=2648926156&idx=1&sn=a785907196fbee0ed9fbd67c78faf652&chksm=8f5da257b82a2b410385758828b17bdf7e44472eb5837056a2fdf9754053370f9bbc9dc775cc&mpshare=1&scene=23&srcid=0802TEHA8EVb2LpyD2trW5Dj&sharer_sharetime=1627876827389&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [在终端监控你的 Linux 系统](http://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489668&idx=1&sn=6a90100c96e1d8c11ce4cbf1426dcc5b&chksm=e9c4e9e5deb360f34b35bf8ca71c0beb80103baf3f0be1e1b652a713f63a163cf877abb3dfac&mpshare=1&scene=23&srcid=0828bIMFWJtlnRpCwkEQtIHm&sharer_sharetime=1630146018483&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [每天一个 Linux 命令：od 命令](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490201&idx=2&sn=174247930fac09f75f16221914a3b1c9&chksm=becc3ac989bbb3df59c6855ab16120a413b1f6907535d17d650392f02bb517de58174cd523c8&mpshare=1&scene=23&srcid=0826qzJywgANip2jc8Hi0us8&sharer_sharetime=1629988027521&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+  * [Linux 新手容易犯的 7 个错误](http://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650490192&idx=1&sn=44e31df5f414e65393348bfd18184c2b&chksm=becc3ac089bbb3d6460a9ae7599ca51b619dd00d93af547619e8307350a3ea2a346de466528c&mpshare=1&scene=23&srcid=0825JSNSAhyu3vCDan043TfX&sharer_sharetime=1629855908625&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### LaTeX
 
@@ -486,6 +498,52 @@
   * [MySQL 8.0 Server层最新架构详解](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504340&idx=1&sn=d061b217a5be9e245964bb5d74a3887d&chksm=e92aecdbde5d65cdb6841d03e3ef124cce2e0d50428e1f3aae7a81582864334d31fa5266e7dd&mpshare=1&scene=23&srcid=072694TtD34dNoYxmyIFrSW4&sharer_sharetime=1627275547492&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ## N
+
+### NACOS
+
+* 标签：分布式
+
+* 简介：
+
+  > 服务（Service）是 Nacos 世界的一等公民。Nacos 支持几乎所有主流类型的“服务”的发现、配置和管理：
+  >
+  > [Kubernetes Service](https://kubernetes.io/docs/concepts/services-networking/service/)
+  >
+  > [gRPC](https://grpc.io/docs/guides/concepts.html#service-definition) & [Dubbo RPC Service](https://dubbo.incubator.apache.org)
+  >
+  > [Spring Cloud RESTful Service](https://spring.io/understanding/REST)
+  >
+  > Nacos 的关键特性包括:
+  >
+  > - **服务发现和服务健康监测**
+  >
+  >   Nacos 支持基于 DNS 和基于 RPC 的服务发现。服务提供者使用 [原生SDK](https://nacos.io/zh-cn/docs/sdk.html)、[OpenAPI](https://nacos.io/zh-cn/docs/open-api.html)、或一个[独立的Agent TODO](https://nacos.io/zh-cn/docs/other-language.html)注册 Service 后，服务消费者可以使用[DNS TODO](https://nacos.io/zh-cn/docs/xx) 或[HTTP&API](https://nacos.io/zh-cn/docs/open-api.html)查找和发现服务。
+  >
+  >   Nacos 提供对服务的实时的健康检查，阻止向不健康的主机或服务实例发送请求。Nacos 支持传输层 (PING 或 TCP)和应用层  (如 HTTP、MySQL、用户自定义）的健康检查。 对于复杂的云环境和网络拓扑环境中（如 VPC、边缘网络等）服务的健康检查，Nacos  提供了 agent 上报模式和服务端主动检测2种健康检查模式。Nacos  还提供了统一的健康检查仪表盘，帮助您根据健康状态管理服务的可用性及流量。
+  >
+  > - **动态配置服务**
+  >
+  >   动态配置服务可以让您以中心化、外部化和动态化的方式管理所有环境的应用配置和服务配置。
+  >
+  >   动态配置消除了配置变更时重新部署应用和服务的需要，让配置管理变得更加高效和敏捷。
+  >
+  >   配置中心化管理让实现无状态服务变得更简单，让服务按需弹性扩展变得更容易。
+  >
+  >   Nacos 提供了一个简洁易用的UI ([控制台样例 Demo](http://console.nacos.io/nacos/index.html)) 帮助您管理所有的服务和应用的配置。Nacos 还提供包括配置版本跟踪、金丝雀发布、一键回滚配置以及客户端配置更新状态跟踪在内的一系列开箱即用的配置管理特性，帮助您更安全地在生产环境中管理配置变更和降低配置变更带来的风险。
+  >
+  > - **动态 DNS 服务**
+  >
+  >   动态 DNS 服务支持权重路由，让您更容易地实现中间层负载均衡、更灵活的路由策略、流量控制以及数据中心内网的简单DNS解析服务。动态DNS服务还能让您更容易地实现以 DNS 协议为基础的服务发现，以帮助您消除耦合到厂商私有服务发现 API 上的风险。
+  >
+  >   Nacos 提供了一些简单的 [DNS APIs TODO](https://nacos.io/zh-cn/docs/xx) 帮助您管理服务的关联域名和可用的 IP:PORT 列表.
+  >
+  > - **服务及其元数据管理**
+  >
+  >   Nacos 能让您从微服务平台建设的视角管理数据中心的所有服务及元数据，包括管理服务的描述、生命周期、服务的静态依赖分析、服务的健康状态、服务的流量管理、路由及安全策略、服务的 SLA 以及最首要的 metrics 统计数据。
+
+* 相关资料：
+  * [NACOS官方文档](https://nacos.io/zh-cn/docs/what-is-nacos.html)
+  * [Nacos实现原理详解](http://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247497615&idx=2&sn=2dd1439cbf7cbc46a626390a98ce37c2&chksm=fd572709ca20ae1f8b308d1ef5fd834763d62df66927a639f067676aa3d5c071621aa9666cc0&mpshare=1&scene=23&srcid=0826VUUVJUHqaTvo1FfsxEpb&sharer_sharetime=1629974255288&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
 ### Node.js
 
@@ -755,6 +813,15 @@
   * [一文读懂深度学习](https://easyai.tech/ai-definition/deep-learning/)
   * [PyTorch 框架的深度学习优化算法集](http://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653577902&idx=1&sn=aa255dc5bf4ad54602969cf6ee787b9f&chksm=806e4c13b719c50563ae6c2140570ca29c2edea023fcfe0555d47d6bfe455b8d25cfb3581b27&mpshare=1&scene=23&srcid=0819jOOodLYAbAKzLUQHAGzu&sharer_sharetime=1629352447955&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 
+### Socket
+
+* 标签：计算机网络
+
+* 简介：
+
+  > 套接字是通信的基石，是支持TCP/IP协议的路通信的基本操作单元。可以将套接字看作不同主机间的进程进行双间通信的端点，它构成了单个主机内及整个网络间的编程界面。套接字存在于通信域中，通信域是为了处理一般的线程通过套接字通信而引进的一种抽象概念。套接字通常和同一个域中的套接字交换数据(数据交换也可能穿越域的界限，但这时一定要执行某种解释程序)，各种进程使用这个相同的域互相之间用Internet协议簇来进行通信 。
+  > Socket(套接字)可以看成是两个网络应用程序进行通信时，各自通信连接中的端点，这是一个逻辑上的概念。它是网络环境中进程间通信的API(应用程序编程接口)，也是可以被命名和寻址的通信端点，使用中的每一个套接字都有其类型和一个与之相连进程。通信时其中一个网络应用程序将要传输的一段信息写入它所在主机的 Socket中，该 Socket通过与网络接口卡(NIC)相连的传输介质将这段信息送到另外一台主机的 Socket中，使对方能够接收到这段信息。 Socket是由IP地址和端口结合的，提供向应用层进程传送数据包的机制。
+
 ## T
 
 ### TEX
@@ -904,9 +971,7 @@
 * [如何实现卖家增长任务的AB实验](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487609&idx=1&sn=bda6b6e2530edda3f249794324a7afa1&chksm=fd54c468ca234d7ecaa3442b1d322bb2ed696381759d56b8a4d81b0fd855374ecc328eb4356d&mpshare=1&scene=23&srcid=08103zdc9ea81xpWofgzyP93&sharer_sharetime=1628591334340&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * [不要总是不停的学技术 ](https://mp.weixin.qq.com/s?__biz=MzIxMjE1MzU4OA==&mid=2648926322&idx=1&sn=90648aa92e45a4ef8a5d8f1502c58b45&chksm=8f5dade9b82a24ffccf3d087c35581115b3760ce8303d748f6092f685492a42ea0f35015d452&mpshare=1&scene=23&srcid=08102oA7mW5XbTqHafxjK4G3&sharer_sharetime=1628591187763&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * [一文读懂阿里云直播技术是如何实现的](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504540&idx=1&sn=75db4bb4b1863537056f04b177eedda3&chksm=e92aef93de5d6685af0169bd7f8ef61617fe11c5bd444e58a6520b48159580b330f962548e6d&mpshare=1&scene=23&srcid=0809juCt3FYt8QDPxSdUAflA&sharer_sharetime=1628503891828&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
-
 * [试着读懂你的心——闲鱼聊天小助手的探索之路](https://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487584&idx=1&sn=b5af1dad1504cbbf54fc8bd03676eb29&chksm=fd54c471ca234d6767b4f38c48dcb48f8971d4db87ebe62fc6e157162cd367503e8513d703ca&mpshare=1&scene=23&srcid=0804TrTQjfKaAzrOYyUibil7&sharer_sharetime=1628069023544&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
-
 * [把手教你使用Gitee+PicGO搭建高效图床](http://mp.weixin.qq.com/s?__biz=Mzg3MjU4NzI2NA==&mid=2247499658&idx=1&sn=a583a9dab5fc43191526d34e85e868c2&chksm=ceefb6e5f9983ff3f41cd7eb2cbbcd1133fe4dc923c4e101645a2df729c741267378c5572786&mpshare=1&scene=23&srcid=0822kJvjVUDPmZvGygbTejct&sharer_sharetime=1629606386073&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * [如何设计可靠的灰度方案](http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504686&idx=1&sn=ef2880c0b33f30dfce5992650aa21aae&chksm=e92aee21de5d6737bd8c922672af22c4c29282a137cfe58d1b64431bb32590c1e1888df74cf0&mpshare=1&scene=23&srcid=0821cJ26eTxAv1vh04FJbyYv&sharer_sharetime=1629536837519&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * [聊聊互联网营销的第4门功课](http://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487670&idx=1&sn=7310bd59858d8c7e0c997a4227ac4c97&chksm=fd54c4a7ca234db1329d3e1ee2acc59698f7c7710d96cb427e8aee89091b7353fb9af59967d3&mpshare=1&scene=23&srcid=0819EHuQyKFZMs5RyU0VMkV4&sharer_sharetime=1629352351739&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
@@ -914,3 +979,13 @@
 * [全网最全的 postman 工具使用教程](http://mp.weixin.qq.com/s?__biz=MzU4MDUyMDQyNQ==&mid=2247497452&idx=1&sn=654ee7da72125ac529599b1219d80a67&chksm=fd57266aca20af7c82a3d36bb7439fd5303076441fe9a25f24878acdbcf326746e33be2982e7&mpshare=1&scene=23&srcid=0819ewhOpZ6SduVEIbWAjIlI&sharer_sharetime=1629352332744&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * [提升代码质量的方法：领域模型、设计原则、设计模式](http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504673&idx=1&sn=cf4c381b036360c01c9de63a85ee5024&chksm=e92aee2ede5d67380cdb6819b357b574d0e788c2288378a10ffad28795fea3ab8fe06fb6f0ec&mpshare=1&scene=23&srcid=0819rcA7dA25Lhi3yHhzF49s&sharer_sharetime=1629352294080&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
 * [深入理解零拷贝技术](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651163755&idx=1&sn=db585c14501e826da52c39f71aa73ada&chksm=80645d34b713d4226725fff626ddc7d2ce2a5086cfb7e2c5393ecf2dfca1a3d44a70a12b81e4&mpshare=1&scene=23&srcid=0819DsWqqkLh3dphbUBNQXTo&sharer_sharetime=1629352277039&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [深入理解浏览器原理和架构|硬核](http://mp.weixin.qq.com/s?__biz=MzkyMTIzMTkzNA==&mid=2247534335&idx=1&sn=0fb3082f5c20d8c7bd4df787a90b4485&chksm=c184b1aef6f338b861ce3f7ede1256a5ff79b2a12466d022d1b8c1dbc92b03b81d2dc021425d&mpshare=1&scene=23&srcid=0830alT62BVxcvGT1wK9mz7Y&sharer_sharetime=1630294437522&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [如何在免费 WiFi 中保护隐私](http://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489670&idx=1&sn=9107aadc91216a91f2fa5531ad819220&chksm=e9c4e9e7deb360f120adde83238cd5cda2bcae1128ad54967d4688d2dd02685d09c371c00290&mpshare=1&scene=23&srcid=0829Uw0GmBz6iWFkKwz8F0pw&sharer_sharetime=1630235810164&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [手把手教你搭建一个Discuz论坛](http://mp.weixin.qq.com/s?__biz=Mzg3MjU4NzI2NA==&mid=2247499760&idx=1&sn=28e94c10ff006b3f6005c5badb636914&chksm=ceefb69ff9983f8969735764138b9d2e952d2b8bc25b2129362522c3201a683853ca2849b395&mpshare=1&scene=23&srcid=0827Bs0rmmQmI6BAbEtiJVJY&sharer_sharetime=1630062373173&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [编程学习之系统命令](http://mp.weixin.qq.com/s?__biz=MzU4Mzc3MzM3NA==&mid=2247485375&idx=1&sn=0f45ced9a1803e917617b119f944782b&chksm=fda2ba6ecad53378573490b214027c6a5538c5b0424dd7fd998cee2d4a14e4e442c00fea56bc&mpshare=1&scene=23&srcid=0826Ojq3GRzW9fdgk9qbkQWw&sharer_sharetime=1629988162306&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [图解：订单系统的设计](http://mp.weixin.qq.com/s?__biz=MzAxNDMwMTMwMw==&mid=2247528270&idx=2&sn=a505fbde64d135529be0e34080982410&chksm=9b974e56ace0c74027ca76ed24a939b4e91c3582a9e1d7d7427a78d58bb1ce17467f289a039b&mpshare=1&scene=23&srcid=0826kfIRc0Ot9xPUqqAEp4fW&sharer_sharetime=1629974311434&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [使用 VS Code 在容器中开发 ](http://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247489664&idx=1&sn=017a1688afdb29e750171b4b66a68e20&chksm=e9c4e9e1deb360f766806e56c1bf38f9a45cefbd9727860d2c7b8a37911a46e8f47abaa4c1cd&mpshare=1&scene=23&srcid=082665EolUitPGWxDjLwoLRh&sharer_sharetime=1629974281849&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [个人博客网站搭建很难吗？手把手教你](http://mp.weixin.qq.com/s?__biz=Mzg3MjU4NzI2NA==&mid=2247499727&idx=1&sn=c5c4dc480306cdc6c5f27a3871af3184&chksm=ceefb6a0f9983fb6da898a05caf675b641d0b9900a646d267faaa7515857f369247d1ed0a868&mpshare=1&scene=23&srcid=0825ObtgUi7pZWZ3RHoJHSCA&sharer_sharetime=1629876529351&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [玩转用户身份权益——详解闲鱼身份权益体系的实现](http://mp.weixin.qq.com/s?__biz=MzU4MDUxOTI5NA==&mid=2247487704&idx=1&sn=2189a664f9e2dd07df62e7b8f7581c24&chksm=fd54c4c9ca234ddfc0628ec7048b356a24e8a227dee418390c6e17f1179ca23bd386b09ea4ff&mpshare=1&scene=23&srcid=0825s4cE4eFCp7b833Nl0Bws&sharer_sharetime=1629876485010&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+* [开源自建/托管与商业化自研 Trace，如何选择？](http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247504737&idx=1&sn=2de2fb0e0656c702fa4d2546a9cdd2e5&chksm=e92aee6ede5d677811708616f016678850f758874298c2facf697b1d2df89aca4cc6ef58b69f&mpshare=1&scene=23&srcid=0825SQ1ZnJk1A7MSfLYhdiMa&sharer_sharetime=1629855763265&sharer_shareid=0dc610b51d544a10fbb7de1d28137982#rd)
+
